@@ -13,9 +13,9 @@
     <phrase id="2FAVerificationFailed" value="Two factor authentication verification failed"/><!-- v2022 -->
     <phrase id="Accept" value="Aceptar"/><!-- v2019 -->
     <phrase id="ActionDeleted" value="Eliminado"/>
-    <phrase id="ActionInserted" value="Inserted"/>
-    <phrase id="ActionInsertedGridAdd" value="Inserted (Grid-Add)"/>
-    <phrase id="ActionUpdated" value="Updated"/>
+    <phrase id="ActionInserted" value="Insertado"/>
+    <phrase id="ActionInsertedGridAdd" value="Insertado (Agregar-Malla)"/>
+    <phrase id="ActionUpdated" value="Actualizado"/>
     <phrase id="ActionUpdatedGridEdit" value="Updated (Grid-Edit)"/>
     <phrase id="ActionUpdatedMultiUpdate" value="Updated (Multi-Update)"/>
     <phrase id="ActivateAccount" value="Your account is activated"/>
