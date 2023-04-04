@@ -10,7 +10,7 @@
     <phrase id="2FADisabled" value="Autenticación de dos factores deshabilitada"/><!-- v2022 -->
     <phrase id="2FAEnabled" value="Autenticación de dos factores habilitada"/><!-- v2022 -->
     <phrase id="2FAResetFailed" value="Error al deshabilitar la autenticación de dos factores"/><!-- v2022 -->
-    <phrase id="2FAVerificationFailed" value="Two factor authentication verification failed"/><!-- v2022 -->
+    <phrase id="2FAVerificationFailed" value="Error en la verificación de autenticación de dos factores"/><!-- v2022 -->
     <phrase id="Accept" value="Aceptar"/><!-- v2019 -->
     <phrase id="ActionDeleted" value="Eliminado"/>
     <phrase id="ActionInserted" value="Inserted"/>
