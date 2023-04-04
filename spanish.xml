@@ -30,7 +30,7 @@
     <phrase id="AdvancedSearch" value="Advanced Search" class="icon-advanced-search ew-icon"/><!-- v2023 -->
     <phrase id="AggregateColon" value=": "/><!-- v2020 -->
     <phrase id="AggregateEqual" value="="/><!-- v2020 -->
-    <phrase id="AllRecords" value="All"/>
+    <phrase id="AllRecords" value="Todos"/>
     <phrase id="AllWord" value="All words"/>
     <phrase id="AnyWord" value="Any word"/>
     <phrase id="ApiTitle" value="REST API"/><!-- v2021 -->
