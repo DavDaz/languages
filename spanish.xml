@@ -399,105 +399,105 @@
     <phrase id="QuickSearchAllShort" value="Todas"/><!-- v11 -->
     <phrase id="QuickSearchAny" value="Cualquier palabra clave"/><!-- v11 -->
     <phrase id="QuickSearchAnyShort" value="Cualquiera"/><!-- v11 -->
-    <phrase id="QuickSearchExact" value="Exact match"/><!-- v11 -->
-    <phrase id="QuickSearchExactShort" value="Exact"/><!-- v11 -->
-    <phrase id="Recipient" value="Recipient(s)"/><!-- v2021 -->
+    <phrase id="QuickSearchExact" value="Frase exacta"/><!-- v11 -->
+    <phrase id="QuickSearchExactShort" value="Exacta"/><!-- v11 -->
+    <phrase id="Recipient" value="Destinatariorecipient(s)"/><!-- v2021 -->
     <phrase id="Record" value="Registro"/><!-- v2022 -->
-    <phrase id="RecordChangedByOtherUser" value="Data has been changed by other user. Click [Reload] to retrieve the changed data (your data in the form will be overwritten) or click [Overwrite] to overwrite the changed data."/>
-    <phrase id="RecordDeleted" value="record(s) deleted"/>
-    <phrase id="RecordInserted" value="record(s) inserted"/>
-    <phrase id="RecordUpdated" value="record(s) updated"/>
-    <phrase id="RecordsPerPage" value="Page size"/><!-- v2017 -->
-    <phrase id="Register" value="Register"/><!-- v2020 -->
-    <phrase id="RegisterBtn" value="Register"/>
-    <phrase id="RegisterSuccess" value="Registration succeeded"/>
-    <phrase id="RegisterSuccessActivate" value="Registration succeeded. An email has been sent to your email address, please click the link in the email to activate your account."/>
-    <phrase id="RegisterPage" value="Registration"/>
-    <phrase id="RelatedRecordRequired" value="You cannot add or update a record because the foreign key value does not exist in the master table '%t'"/>
-    <phrase id="RelatedRecordExists" value="You cannot delete a record because related records exist in the detail table '%t'"/>
-    <phrase id="ReloadBtn" value="Reload"/><!-- v2017 -->
-    <phrase id="ReloadLink" value="Reload"/>
-    <phrase id="RememberMe" value="Remember me"/>
-    <phrase id="Remove" value="Remove"/>
-    <phrase id="Replace" value="Replace"/>
-    <phrase id="Report" value="Report"/>
-    <phrase id="ResetPwd" value="Reset Password"/><!-- v2020 -->
-    <phrase id="ResetPwdTitle" value="Reset Password"/><!-- v2023 -->
-    <phrase id="ResendRegisterEmailBtn" value="Resend registration email"/><!-- v12 -->
-    <phrase id="ResendRegisterEmailSuccess" value="Registration email for user '%u' has been re-sent"/><!-- v12 -->
-    <phrase id="ResendRegisterEmailFailure" value="Failed to re-send register email for user '%u'"/><!-- v12 -->
-    <phrase id="Reset" value="Reset"/>
-    <phrase id="ResetAllFilter" value="Reset all filters" class="icon-reset-search ew-icon"/><!-- v2020 -->
-    <phrase id="ResetConcurrentUserBtn" value="Reset concurrent user session"/><!-- v12 -->
-    <phrase id="ResetConcurrentUserSuccess" value="Session for user '%u' has been reset"/><!-- v12 -->
-    <phrase id="ResetConcurrentUserFailure" value="Failed to reset session for user '%u'"/><!-- v12 -->
-    <phrase id="ResetLoginRetryBtn" value="Reset login retry count"/><!-- v12 -->
-    <phrase id="ResetLoginRetrySuccess" value="Login retry count for user '%u' has been reset"/><!-- v12 -->
-    <phrase id="ResetLoginRetryFailure" value="Failed to reset login retry count for user '%u'"/><!-- v12 -->
-    <phrase id="ResetSearchBtn" value="Reset" class="icon-reset-search ew-icon"/><!-- v11 -->
-    <phrase id="ResetSearch" value="Reset"/>
-    <phrase id="ResetUserSecretBtn" value="Reset user secret"/><!-- v2022 -->
-    <phrase id="ResetUserSecretSuccess" value="User secret for user '%u' has been reset"/><!-- v2022 -->
-    <phrase id="ResetUserSecretFailure" value="Failed to reset user secret for user '%u'"/><!-- v2022 -->
-    <phrase id="RptAvg" value="AVG"/><!-- v2020 -->
-    <phrase id="RptCnt" value="COUNT"/><!-- v2020 -->
-    <phrase id="RptDtlRec" value=" detail records"/><!-- v2020 -->
-    <phrase id="RptGrandSummary" value="Grand Summary"/><!-- v2020 -->
-    <phrase id="RptMax" value="MAX"/><!-- v2020 -->
-    <phrase id="RptMin" value="MIN"/><!-- v2020 -->
-    <phrase id="RptPageSummary" value="Page Summary"/><!-- v2020 -->
-    <phrase id="RptSum" value="SUM"/><!-- v2020 -->
-    <phrase id="RptSumHead" value="Summary for %c: %v"/><!-- v2020 -->
+    <phrase id="RecordChangedByOtherUser" value="Los datos fueron cambiados por otro usuario.Presione [Recargar] para obtener los datos de nuevo (sus datos en el formulario serán reemplazados) o presione (Sobreescribir) para sobreescribir esos datos."/>
+    <phrase id="RecordDeleted" value="registro(s) borrados"/>
+    <phrase id="RecordInserted" value="registro(s) insertados"/>
+    <phrase id="RecordUpdated" value="registro(s) actualizados"/>
+    <phrase id="RecordsPerPage" value="Tamaño de página"/><!-- v2017 -->
+    <phrase id="Register" value="Registrar"/><!-- v2020 -->
+    <phrase id="RegisterBtn" value="Registrar"/>
+    <phrase id="RegisterSuccess" value="Registrado exitosamente"/>
+    <phrase id="RegisterSuccessActivate" value="Registrado exitosamente. Le llegará un correo electronico , por favor siga el vinculo para activar su cuenta."/>
+    <phrase id="RegisterPage" value="Registrese"/>
+    <phrase id="RelatedRecordRequired" value="No puede agregar ni actualizar el registro porque la clave principal no existe en la tabla principal '%t'"/>
+    <phrase id="RelatedRecordExists" value="No puede borrar un registro porque está relacionado a registros de la tabla '%t'"/>
+    <phrase id="ReloadBtn" value="Recargar"/><!-- v2017 -->
+    <phrase id="ReloadLink" value="Recargar"/>
+    <phrase id="RememberMe" value="Recuerdame"/>
+    <phrase id="Remove" value="Eliminar"/>
+    <phrase id="Replace" value="Reemplazar"/>
+    <phrase id="Report" value="Reporte"/>
+    <phrase id="ResetPwd" value="Reiniciar Contraseña"/><!-- v2020 -->
+    <phrase id="ResetPwdTitle" value="Reiniciar Contraseña"/><!-- v2023 -->
+    <phrase id="ResendRegisterEmailBtn" value="Reenviar correo electronico de registro"/><!-- v12 -->
+    <phrase id="ResendRegisterEmailSuccess" value="El coreeo electronico de registro del usuario '%u' fue reenviado"/><!-- v12 -->
+    <phrase id="ResendRegisterEmailFailure" value="Fallo al reenviar el correo electronico de registro del usuario'%u'"/><!-- v12 -->
+    <phrase id="Reset" value="Reiniciar"/>
+    <phrase id="ResetAllFilter" value="Reiniciar tosos los filtros" class="icon-reset-search ew-icon"/><!-- v2020 -->
+    <phrase id="ResetConcurrentUserBtn" value="Reestablecer la session de usuario concurrente "/><!-- v12 -->
+    <phrase id="ResetConcurrentUserSuccess" value="La session del usuario '%u' fue reinciada"/><!-- v12 -->
+    <phrase id="ResetConcurrentUserFailure" value="Falla al reiniciar session del usuario '%u'"/><!-- v12 -->
+    <phrase id="ResetLoginRetryBtn" value="Reiniciar conteo de intentos de ingreso"/><!-- v12 -->
+    <phrase id="ResetLoginRetrySuccess" value="Contador de intentos de ingreso del usuario '%u' reiniciado"/><!-- v12 -->
+    <phrase id="ResetLoginRetryFailure" value="Fallo al reiniciar contador de intentos de ingreso del usuario '%u'"/><!-- v12 -->
+    <phrase id="ResetSearchBtn" value="Reiniciar" class="icon-reset-search ew-icon"/><!-- v11 -->
+    <phrase id="ResetSearch" value="Reiniciar"/>
+    <phrase id="ResetUserSecretBtn" value="Restablecer secreto de usuario "/><!-- v2022 -->
+    <phrase id="ResetUserSecretSuccess" value="Secreto del usuario '%u' reseteado"/><!-- v2022 -->
+    <phrase id="ResetUserSecretFailure" value="Error al resetear el secreto de usuario para '%u'"/><!-- v2022 -->
+    <phrase id="RptAvg" value="Promedio"/><!-- v2020 -->
+    <phrase id="RptCnt" value="Contar"/><!-- v2020 -->
+    <phrase id="RptDtlRec" value=" registros detallados"/><!-- v2020 -->
+    <phrase id="RptGrandSummary" value="Resumen General"/><!-- v2020 -->
+    <phrase id="RptMax" value="Máximo"/><!-- v2020 -->
+    <phrase id="RptMin" value="Minimo"/><!-- v2020 -->
+    <phrase id="RptPageSummary" value="Resumen de Página"/><!-- v2020 -->
+    <phrase id="RptSum" value="Suma"/><!-- v2020 -->
+    <phrase id="RptSumHead" value="Resunen para %c: %v"/><!-- v2020 -->
     <phrase id="SaveBtn" value="Guardar"/><!-- v2018 -->
     <phrase id="SaveCurrentFilter" value="Guardar filtro actual"/><!-- v12 -->
-    <phrase id="Scan2FAQrCode" value="After installing the Google Authenticator, scan the QR Code above and enter the verification code"/><!-- v2022 -->
+    <phrase id="Scan2FAQrCode" value="Despúes de instalar Google Authenticados, escanee el código QR e introduzca el código de verificación"/><!-- v2022 -->
     <phrase id="Search" value="Buscar"/><!-- v2017 -->
     <phrase id="SearchBtn" value="Buscar"/><!-- v2018 -->
     <phrase id="SearchLink" value="Buscar" class="fa-solid fa-magnifying-glass ew-icon"/><!-- v2023 -->
     <phrase id="SearchPanel" value="Panel de búsqueda"/><!-- v11 -->
-    <phrase id="SecurityCode" value="Security code"/><!-- v2022 -->
-    <phrase id="SecurityCodeVerified" value="Security code verified, redirecting..."/><!-- v2022 -->
-    <phrase id="SelectAll" value="Select all"/><!-- v2022 -->
-    <phrase id="SelectBtn" value="Select"/><!-- v2017 -->
-    <phrase id="SendEmailBtn" value="Send"/>
-    <phrase id="SendEmailSuccess" value="Email sent successfully"/>
-    <phrase id="Sender" value="Sender"/><!-- v2021 -->
-    <phrase id="SendOTP" value="Send one time password"/><!-- v2023 -->
-    <phrase id="SendOTPConfirm" value="Are you sure you want to send the one time password?"/><!-- v2023 -->
-    <phrase id="SendOTPSuccess" value="One time password is sent successfully."/><!-- v2023 -->
-    <phrase id="SendOTPFailed" value="One time password is not sent with error: %e"/><!-- v2023 -->
-    <phrase id="SendOTPSkipped" value="One time password is skipped for invalid account '%a' of user '%u'"/><!-- v2023 -->
-    <phrase id="SendOTPCancelled" value="One time password is cancelled by user"/><!-- v2023 -->
-    <phrase id="SendPushNotification" value="Send push notifications" class="fa-solid fa-bell ew-icon"/><!-- v2023 -->
-    <phrase id="SendPushNotificationBtn" value="Send"/><!-- v2022 -->
-    <phrase id="SendPushNotificationsToAll" value="No subscriptions selected. Send push notifications to all?"/><!-- v2022 -->
-    <phrase id="SendPwd" value="Send"/><!-- v2020 -->
+    <phrase id="SecurityCode" value="Código de seguridad"/><!-- v2022 -->
+    <phrase id="SecurityCodeVerified" value="Código de seguridad verificado, redirigiendo.."/><!-- v2022 -->
+    <phrase id="SelectAll" value="Seleccionar todos"/><!-- v2022 -->
+    <phrase id="SelectBtn" value="Seleccionar"/><!-- v2017 -->
+    <phrase id="SendEmailBtn" value="Enviar"/>
+    <phrase id="SendEmailSuccess" value="Correo electronico enviado correctamente"/>
+    <phrase id="Sender" value="Remitente"/><!-- v2021 -->
+    <phrase id="SendOTP" value="Enviar contraseña de un solo uso"/><!-- v2023 -->
+    <phrase id="SendOTPConfirm" value="Esta seguro que desear enviar la contaseña de un solo uso?"/><!-- v2023 -->
+    <phrase id="SendOTPSuccess" value="La contraseña de un solo uso se envio con éxito."/><!-- v2023 -->
+    <phrase id="SendOTPFailed" value="Una contraseña de un solo uso no ha sido enviada con error: %e"/><!-- v2023 -->
+    <phrase id="SendOTPSkipped" value="La contraseña de un solo uso se omite para una cuenta invalida '%a'del usuario '%u'"/><!-- v2023 -->
+    <phrase id="SendOTPCancelled" value="La contraseña de un solo uso es cancelada por el usuario"/><!-- v2023 -->
+    <phrase id="SendPushNotification" value="Enviar notificaciones automáticas" class="fa-solid fa-bell ew-icon"/><!-- v2023 -->
+    <phrase id="SendPushNotificationBtn" value="Enviar"/><!-- v2022 -->
+    <phrase id="SendPushNotificationsToAll" value="No ha seleccionado suscripciones. ¿Enviar notificaciones a todos?"/><!-- v2022 -->
+    <phrase id="SendPwd" value="Enviar"/><!-- v2020 -->
     <phrase id="SequenceNumber" value="%s."/>
-    <phrase id="ServerCommunicationError" value="An error occured while communicating to the server."/><!-- v2022 -->
-    <phrase id="ServerError" value="An internal error has occurred while processing your request."/><!-- v2021 -->
-    <phrase id="SessionWillExpire" value="Your session will expire in %s seconds. Click OK to continue your session."/><!-- v12 -->
-    <phrase id="SessionExpired" value="Your session has expired."/><!-- v12 -->
-    <phrase id="SetPasswordExpiredBtn" value="Set password expired"/><!-- v12 -->
-    <phrase id="SetPasswordExpiredSuccess" value="Password for user '%u' has been set as expired"/><!-- v12 -->
-    <phrase id="SetPasswordExpiredFailure" value="Failed to set password for user '%u' as expired"/><!-- v12 -->
+    <phrase id="ServerCommunicationError" value="Ha ocurrido un error mientras se cominicaba con el servidor."/><!-- v2022 -->
+    <phrase id="ServerError" value="Se produjo un error interno al procesar la solicitud."/><!-- v2021 -->
+    <phrase id="SessionWillExpire" value="La sesión expirará en %s segundos. Presione OK para continuar tu sesión."/><!-- v12 -->
+    <phrase id="SessionExpired" value="Su sesión ha expirado."/><!-- v12 -->
+    <phrase id="SetPasswordExpiredBtn" value="Establecer contraseña expirada"/><!-- v12 -->
+    <phrase id="SetPasswordExpiredSuccess" value="La contraseña del usuario'%u' se ha establecido como expirada"/><!-- v12 -->
+    <phrase id="SetPasswordExpiredFailure" value="Fallo al establecer la contraseña del usuario '%u'como expirada"/><!-- v12 -->
     <phrase id="ShowAllBtn" value="Show all" class="icon-reset-search ew-icon"/><!-- v11 -->
-    <phrase id="ShowAll" value="Show all"/><!-- v11 -->
-    <phrase id="Skip" value="Skip"/><!-- v2023 -->
-    <phrase id="SortUp" value="Ascending" class="fa-solid fa-sort-up"/><!-- v2023 -->
-    <phrase id="SortDown" value="Descending" class="fa-solid fa-sort-down"/><!-- v2023 -->
-    <phrase id="Subject" value="Subject"/><!-- v2021 -->
-    <phrase id="Success" value="Success"/><!-- v2020 -->
-    <phrase id="Summary" value="Summary"/><!-- v2020 -->
+    <phrase id="ShowAll" value="Mostrar todos"/><!-- v11 -->
+    <phrase id="Skip" value="Saltar"/><!-- v2023 -->
+    <phrase id="SortUp" value="Ascendente" class="fa-solid fa-sort-up"/><!-- v2023 -->
+    <phrase id="SortDown" value="Descendente" class="fa-solid fa-sort-down"/><!-- v2023 -->
+    <phrase id="Subject" value="Asunto"/><!-- v2021 -->
+    <phrase id="Success" value="Éxito"/><!-- v2020 -->
+    <phrase id="Summary" value="Resumen"/><!-- v2020 -->
     <phrase id="SummaryColon" value=": "/><!-- v2020 -->
-    <phrase id="Table" value="TABLE"/>
-    <phrase id="Tables" value="Tables"/><!-- v2022 -->
-    <phrase id="To" value="to"/>
-    <phrase id="Top" value="Top"/><!-- v2020 -->
+    <phrase id="Table" value="Tabla"/>
+    <phrase id="Tables" value="Tablas"/><!-- v2022 -->
+    <phrase id="To" value="a"/>
+    <phrase id="Top" value="Superior"/><!-- v2020 -->
     <phrase id="Total" value="Total"/>
-    <phrase id="UnauthorizedUserID" value="The current user (%c) is not authorized to assign the user ID (%u)."/>
-    <phrase id="UnauthorizedParentUserID" value="The current user (%c) is not authorized to assign the parent user ID (%p)."/>
+    <phrase id="UnauthorizedUserID" value="El usuario actual (%c) no esta autorizado a asignar el usuario ID (%u)."/>
+    <phrase id="UnauthorizedParentUserID" value="El usuario actual (%c) no esta autorizado  a asignar el usuario padre ID (%p)."/>
     <phrase id="UnauthorizedMasterUserID" value="The current user (%c) is not authorized to insert the record. Master filter: %f"/>
-    <phrase id="UnsupportedBrowser" value="Your browser is not supported by this page"/><!-- v2021 -->
+    <phrase id="UnsupportedBrowser" value="Su navegador no es compatible con esta página"/><!-- v2021 -->
     <phrase id="Update" value="Update"/>
     <phrase id="UpdateBtn" value="Update"/><!-- v2017 -->
     <phrase id="UpdateCancelled" value="Update cancelled"/>
