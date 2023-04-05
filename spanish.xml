@@ -42,60 +42,60 @@
     <phrase id="AuditTrailLogout" value="cerrar sesión"/>
     <phrase id="AutoLoginFailed" value="Inicio de sesión automático fallido"/><!-- v2018 -->
     <phrase id="Average" value="Promedio"/>
-    <phrase id="BackToList" value="Back to List"/>
-    <phrase id="BackToLogin" value="Back to login page"/>
-    <phrase id="BackToMasterRecordPage" value="Back to master table"/>
-    <phrase id="BackupCodes" value="Backup codes (2FA)"/><!-- v2022 -->
-    <phrase id="BackupCodesMsg" value="Save your backup codes somewhere safe but accessible. You can only use each backup code once."/><!-- v2022 -->
-    <phrase id="BasicSearchKeyword" value="Search keyword"/><!-- v2023 -->
-    <phrase id="BatchDeleteBegin" value="*** Batch delete begin ***"/>
-    <phrase id="BatchDeleteRollback" value="*** Batch delete rollback ***"/>
-    <phrase id="BatchDeleteSuccess" value="*** Batch delete successful ***"/>
-    <phrase id="BatchInsertBegin" value="*** Batch insert begin ***"/>
-    <phrase id="BatchInsertRollback" value="*** Batch insert rollback ***"/>
-    <phrase id="BatchInsertSuccess" value="*** Batch insert successful ***"/>
-    <phrase id="BatchUpdateBegin" value="*** Batch update begin ***"/>
-    <phrase id="BatchUpdateRollback" value="*** Batch update rollback ***"/>
-    <phrase id="BatchUpdateSuccess" value="*** Batch update successful ***"/>
+    <phrase id="BackToList" value="Volver a la lista"/>
+    <phrase id="BackToLogin" value="Volver a la página de acceso"/>
+    <phrase id="BackToMasterRecordPage" value="Volver a la tabla principal"/>
+    <phrase id="BackupCodes" value="Respaldar Código (2FA)"/><!-- v2022 -->
+    <phrase id="BackupCodesMsg" value="Guarde sus códigos de respaldo en un lugar seguro, pero accesible.Solo podra usar cada código una vez."/><!-- v2022 -->
+    <phrase id="BasicSearchKeyword" value="Buscar palabra clave"/><!-- v2023 -->
+    <phrase id="BatchDeleteBegin" value="*** Iniciar eliminación por lotes ***"/>
+    <phrase id="BatchDeleteRollback" value="*** Deshacer la eliminación por lotes ***"/>
+    <phrase id="BatchDeleteSuccess" value="*** Borrado por lotes con exito ***"/>
+    <phrase id="BatchInsertBegin" value="*** Iniciar ingreso por lotes ***"/>
+    <phrase id="BatchInsertRollback" value="*** Deshacer ingreso por lotes  ***"/>
+    <phrase id="BatchInsertSuccess" value="*** Ingreso por lotes con exito ***"/>
+    <phrase id="BatchUpdateBegin" value="*** Iniciar actualización por lotes ***"/>
+    <phrase id="BatchUpdateRollback" value="*** Deshacer actualización por lotes ***"/>
+    <phrase id="BatchUpdateSuccess" value="***Actualización por lotes exitosa ***"/>
     <phrase id="BlankOptionText" value="&amp;nbsp;"/><!-- v2022 -->
     <phrase id="BooleanNo" value="No"/><!-- v2020 -->
     <phrase id="BooleanYes" value="Si"/><!-- v2020 -->
-    <phrase id="ButtonActions" value="Actions" class="fa-solid fa-bars ew-icon"/><!-- v2023 -->
-    <phrase id="ButtonAddEdit" value="Add/Edit" class="icon-addedit ew-icon"/><!-- v11 -->
-    <phrase id="ButtonDetails" value="Master/Detail" class="icon-master-detail ew-icon"/><!-- v11 -->
-    <phrase id="ButtonExport" value="Export" class="fa-solid fa-download ew-icon"/><!-- v2023 -->
-    <phrase id="ButtonListOptions" value="Options" class="fa-solid fa-bars ew-icon"/><!-- v2023 -->
-    <phrase id="ButtonListOptionsCard" value="Options" class="fa-solid fa-ellipsis-vertical ew-icon"/><!-- v2023 -->
+    <phrase id="ButtonActions" value="Acciones" class="fa-solid fa-bars ew-icon"/><!-- v2023 -->
+    <phrase id="ButtonAddEdit" value="Agregar/Editar" class="icon-addedit ew-icon"/><!-- v11 -->
+    <phrase id="ButtonDetails" value="Principal/Detalle" class="icon-master-detail ew-icon"/><!-- v11 -->
+    <phrase id="ButtonExport" value="Exportar" class="fa-solid fa-download ew-icon"/><!-- v2023 -->
+    <phrase id="ButtonListOptions" value="Opciones" class="fa-solid fa-bars ew-icon"/><!-- v2023 -->
+    <phrase id="ButtonListOptionsCard" value="Opciones" class="fa-solid fa-ellipsis-vertical ew-icon"/><!-- v2023 -->
     <phrase id="ButtonSearch" value="Buscar" class="fa-solid fa-magnifying-glass ew-icon"/><!-- v2023 -->
-    <phrase id="CancelBtn" value="Cancel"/><!-- v2017 -->
-    <phrase id="CancelLink" value="Cancel" class="fa-solid fa-times ew-icon"/><!-- v2023 -->
-    <phrase id="ChangePassword" value="Change Password"/><!-- v2020 -->
-    <phrase id="ChangePasswordMessage" value="Change Password"/><!-- v2019 -->
-    <phrase id="ChangePasswordPage" value="Change Password"/>
-    <phrase id="ChangePasswordBtn" value="Change"/>
-    <phrase id="ChartExportError1" value="Unable to get %t image from %e"/><!-- v2023 -->
-    <phrase id="ChartExportError2" value="Missing file name"/><!-- v2023 -->
-    <phrase id="ChartExportError3" value="Upload folder does not exist"/><!-- v2023 -->
-    <phrase id="ChartExportError4" value="Upload folder is not writable"/><!-- v2023 -->
-    <phrase id="ChartOrder" value="Order by"/><!-- v2020 -->
-    <phrase id="ChartOrderXAsc" value="Labels Ascending"/><!-- v2020 -->
-    <phrase id="ChartOrderXDesc" value="Labels Descending"/><!-- v2020 -->
-    <phrase id="ChartOrderYAsc" value="Values Ascending"/><!-- v2020 -->
-    <phrase id="ChartOrderYDesc" value="Values Descending"/><!-- v2020 -->
-    <phrase id="ChooseFileBtn" value="Choose..."/><!-- v11 -->
-    <phrase id="ChooseFile" value="Drop file here or click to upload"/><!-- v2022 -->
-    <phrase id="ChooseFiles" value="Drop files here or click to upload"/><!-- v2022 -->
-    <phrase id="Clear" value="Clear"/><!-- v2022 -->
-    <phrase id="ClickReCaptcha" value="Please click reCAPTCHA checkbox"/><!-- v12 -->
-    <phrase id="ClickToDrillDown" value="Click to drill down"/><!-- v2020 -->
-    <phrase id="CloseAccountBtn" value="Delete data and close my account"/><!-- v2019 -->
-    <phrase id="CloseBtn" value="Close"/><!-- v2017 -->
-    <phrase id="Columns" value="Columns" class="fa-solid fa-table-columns ew-icon"/><!-- v2023 -->
-    <phrase id="Confirm" value="Confirm"/>
-    <phrase id="ConfirmBtn" value="Confirm"/><!-- v2017 -->
-    <phrase id="ConfirmCancel" value="Do you want to cancel?"/><!-- v12 -->
-    <phrase id="ConfirmPassword" value="Confirm Password"/><!-- v2021 -->
-    <phrase id="ConflictCancelLink" value="Cancel"/>
+    <phrase id="CancelBtn" value="Cancelar"/><!-- v2017 -->
+    <phrase id="CancelLink" value="Cancelar" class="fa-solid fa-times ew-icon"/><!-- v2023 -->
+    <phrase id="ChangePassword" value="Cambiar Contraseña"/><!-- v2020 -->
+    <phrase id="ChangePasswordMessage" value="Cambiar Contraseña"/><!-- v2019 -->
+    <phrase id="ChangePasswordPage" value="Cambiar Contraseña"/>
+    <phrase id="ChangePasswordBtn" value="Cambiar"/>
+    <phrase id="ChartExportError1" value="Imposible obtener  %t imagen desde %e."/><!-- v2023 -->
+    <phrase id="ChartExportError2" value="Falta el nombre del archivo."/><!-- v2023 -->
+    <phrase id="ChartExportError3" value="La carpeta de destino no existe"/><!-- v2023 -->
+    <phrase id="ChartExportError4" value="No tienes permisos de escritura en la carpeta de destino"/><!-- v2023 -->
+    <phrase id="ChartOrder" value="Ordenar por"/><!-- v2020 -->
+    <phrase id="ChartOrderXAsc" value="Etiquetas Ascendentes"/><!-- v2020 -->
+    <phrase id="ChartOrderXDesc" value="Etiquetas Descendentes"/><!-- v2020 -->
+    <phrase id="ChartOrderYAsc" value="Valores Ascendentes"/><!-- v2020 -->
+    <phrase id="ChartOrderYDesc" value="Valores Descendentes"/><!-- v2020 -->
+    <phrase id="ChooseFileBtn" value="Elige..."/><!-- v11 -->
+    <phrase id="ChooseFile" value="Arrastre el archivo aqui o haga click para subirlo"/><!-- v2022 -->
+    <phrase id="ChooseFiles" value="Arratre los archivos aqui  o haga click para subirlos"/><!-- v2022 -->
+    <phrase id="Clear" value="Limpiar"/><!-- v2022 -->
+    <phrase id="ClickReCaptcha" value="Por favor seleccione reCAPTCHA "/><!-- v12 -->
+    <phrase id="ClickToDrillDown" value="Presione para desplegar"/><!-- v2020 -->
+    <phrase id="CloseAccountBtn" value="Borrar  datos y cerrar mi cuenta"/><!-- v2019 -->
+    <phrase id="CloseBtn" value="Cerrar"/><!-- v2017 -->
+    <phrase id="Columns" value="Columnas" class="fa-solid fa-table-columns ew-icon"/><!-- v2023 -->
+    <phrase id="Confirm" value="Confirmar"/>
+    <phrase id="ConfirmBtn" value="Confirmar"/><!-- v2017 -->
+    <phrase id="ConfirmCancel" value="¿Quieres cancelar?"/><!-- v12 -->
+    <phrase id="ConfirmPassword" value="Confirmar Contraseña"/><!-- v2021 -->
+    <phrase id="ConflictCancelLink" value="Cancelar"/>
     <phrase id="CookieConsentTitle" value="Cookies"/><!-- v2021 -->
     <phrase id="CookieConsentSummary" value="Use this space to summarize your privacy and cookie use policy."/><!-- v2021 -->
     <phrase id="Copy" value="Copy"/>
