@@ -97,64 +97,64 @@
     <phrase id="ConfirmPassword" value="Confirmar Contraseña"/><!-- v2021 -->
     <phrase id="ConflictCancelLink" value="Cancelar"/>
     <phrase id="CookieConsentTitle" value="Cookies"/><!-- v2021 -->
-    <phrase id="CookieConsentSummary" value="Use this space to summarize your privacy and cookie use policy."/><!-- v2021 -->
-    <phrase id="Copy" value="Copy"/>
-    <phrase id="CopyLink" value="Copy" class="fa-regular fa-copy ew-icon"/><!-- v2023 -->
-    <phrase id="CopyToClipboard" value="Copy to clipboard"/><!-- v2022 -->
-    <phrase id="CopiedToClipboard" value="Copied to clipboard"/><!-- v2022 -->
-    <phrase id="Count" value="Count"/>
-    <phrase id="CountSelected" value="%s selected"/><!-- v12 -->
-    <phrase id="Crop" value="Crop"/><!-- v2023 -->
-    <phrase id="CrosstabSummary" value="Summary"/><!-- v2023 -->
-    <phrase id="CurrentFilters" value="Current filters:"/><!-- v2020 -->
-    <phrase id="CurrentPassword" value="Current password: "/><!-- v12 -->
-    <phrase id="CustomActionCompleted" value="'%s' completed"/>
-    <phrase id="CustomActionCancelled" value="'%s' cancelled"/>
-    <phrase id="CustomActionFailed" value="'%s' failed"/><!-- v12 -->
-    <phrase id="CustomActionNotAllowed" value="'%s' not allowed"/><!-- v12 -->
-    <phrase id="CustomView" value="CUSTOM VIEW"/>
+    <phrase id="CookieConsentSummary" value="Use este espacio para resumir sus políticas de privacidad y cookie."/><!-- v2021 -->
+    <phrase id="Copy" value="Copiar"/>
+    <phrase id="CopyLink" value="Copiar" class="fa-regular fa-copy ew-icon"/><!-- v2023 -->
+    <phrase id="CopyToClipboard" value="Copiar al portapapeles"/><!-- v2022 -->
+    <phrase id="CopiedToClipboard" value="Copiado al portapapeles"/><!-- v2022 -->
+    <phrase id="Count" value="Contar"/>
+    <phrase id="CountSelected" value="%s seleccionado"/><!-- v12 -->
+    <phrase id="Crop" value="Cortar"/><!-- v2023 -->
+    <phrase id="CrosstabSummary" value="Resumen"/><!-- v2023 -->
+    <phrase id="CurrentFilters" value="Filtros actuales:"/><!-- v2020 -->
+    <phrase id="CurrentPassword" value="Contraseña actual: "/><!-- v12 -->
+    <phrase id="CustomActionCompleted" value="'%s' completado"/>
+    <phrase id="CustomActionCancelled" value="'%s' cancelado"/>
+    <phrase id="CustomActionFailed" value="'%s' fallido"/><!-- v12 -->
+    <phrase id="CustomActionNotAllowed" value="'%s' no permitido"/><!-- v12 -->
+    <phrase id="CustomView" value="VISTA PERSONALIZADA"/>
     <phrase id="Danger" value="Error"/><!-- v2020 -->
-    <phrase id="Debug" value="Debug"/><!-- v2021 -->
-    <phrase id="Delete" value="Delete"/>
-    <phrase id="DeleteBtn" value="Delete"/>
-    <phrase id="DeleteCancelled" value="Delete cancelled"/>
-    <phrase id="DeleteConfirm" value="Are you sure you want to delete?"/><!-- v2023 -->
-    <phrase id="DeleteEventConfirm" value="Are you sure you want to delete this event?"/><!-- v2023 -->
-    <phrase id="DeleteFailed" value="Failed to delete record(s)"/><!-- v2023 -->
+    <phrase id="Debug" value="Depurar"/><!-- v2021 -->
+    <phrase id="Delete" value="Eliminar"/>
+    <phrase id="DeleteBtn" value="Eliminar"/>
+    <phrase id="DeleteCancelled" value="Eliminacion cancelada"/>
+    <phrase id="DeleteConfirm" value="Estás seguro que quieres eliminarlo?"/><!-- v2023 -->
+    <phrase id="DeleteEventConfirm" value="Estás seguro que quieres eliminar este evento?"/><!-- v2023 -->
+    <phrase id="DeleteFailed" value="Error al eliminar registro(s)"/><!-- v2023 -->
     <phrase id="DeleteFilter" value="Eliminar filtro"/><!-- v12 -->
-    <phrase id="DeleteFilterConfirm" value="Delete filter %s?"/><!-- v12 -->
-    <phrase id="DeleteLink" value="Delete" class="fa-solid fa-trash ew-icon"/><!-- v2023 -->
-    <phrase id="DeleteSelectedLink" value="Delete Selected Records" class="fa-solid fa-trash ew-icon"/><!-- v2023 -->
-    <phrase id="DeleteRecordsFailed" value="Delete failed for records with keys: %k"/><!-- v2023 -->
-    <phrase id="DeleteSuccess" value="Deleted successfully"/>
+    <phrase id="DeleteFilterConfirm" value="Eliminar filtro %s?"/><!-- v12 -->
+    <phrase id="DeleteLink" value="Borrar" class="fa-solid fa-trash ew-icon"/><!-- v2023 -->
+    <phrase id="DeleteSelectedLink" value="Borrar Registros Seleccionados" class="fa-solid fa-trash ew-icon"/><!-- v2023 -->
+    <phrase id="DeleteRecordsFailed" value="Error al borrar los registros con las claves: %k"/><!-- v2023 -->
+    <phrase id="DeleteSuccess" value="Borrado exitosamente"/>
     <phrase id="DetailLink" value=""/>
     <phrase id="DetailCount" value="&lt;span class='badge bg-primary ew-detail-count-%c'&gt;%c&lt;/span&gt;"/><!-- v2022 -->
-    <phrase id="Details" value="Details"/><!-- v2022 -->
-    <phrase id="Disable2FA" value="Disable two factor authentication"/><!-- v2022 -->
-    <phrase id="Disable2FAConfirm" value="Are you sure you want to disable two factor authentication?"/><!-- v2023 -->
-    <phrase id="DisableNotifications" value="Disable notifications"/><!-- v2022 -->
-    <phrase id="DisableNotificationsConfirm" value="Are you sure you want to disable notifications?"/><!-- v2023 -->
-    <phrase id="DownloadBtn" value="Download"/><!-- v2019 -->
-    <phrase id="DrillDownAllRecords" value="All records"/><!-- v2020 -->
-    <phrase id="DrillDownFilters" value="Drill down filters:"/><!-- v2020 -->
-    <phrase id="DupIndex" value="Duplicate value '%v' for unique index '%f'"/>
-    <phrase id="DupKey" value="Duplicate primary key: '%f'"/>
-    <phrase id="Edit" value="Edit"/>
-    <phrase id="EditBtn" value="Edit"/><!-- v2018 -->
-    <phrase id="EditLink" value="Edit" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
-    <phrase id="EditSelectedLink" value="Edit selected records" class="icon-grid-edit ew-icon"/><!-- v2023 -->
-    <phrase id="Email" value="Email"/><!-- v2021 -->
-    <phrase id="EmailAddress" value="Email address"/><!-- v2023 -->
-    <phrase id="EmailFormSender" value="From"/>
-    <phrase id="EmailFormRecipient" value="To"/>
+    <phrase id="Details" value="Detalles"/><!-- v2022 -->
+    <phrase id="Disable2FA" value="Desactivar autenticación de dos factores"/><!-- v2022 -->
+    <phrase id="Disable2FAConfirm" value="¿Estás seguro de que quieres desactivar la autenticación de dos factores?"/><!-- v2023 -->
+    <phrase id="DisableNotifications" value="Desactivar notificaciones"/><!-- v2022 -->
+    <phrase id="DisableNotificationsConfirm" value="¿Estás seguro de que quieres desactivar las notificaciones?"/><!-- v2023 -->
+    <phrase id="DownloadBtn" value="Descargar"/><!-- v2019 -->
+    <phrase id="DrillDownAllRecords" value="Todos los registros"/><!-- v2020 -->
+    <phrase id="DrillDownFilters" value="Filtros detallados:"/><!-- v2020 -->
+    <phrase id="DupIndex" value="Valor duplicado '%v' para el índice único '%f'"/>
+    <phrase id="DupKey" value="Clave primaria duplicada: '%f'"/>
+    <phrase id="Edit" value="Editar"/>
+    <phrase id="EditBtn" value="Editar"/><!-- v2018 -->
+    <phrase id="EditLink" value="Editar" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
+    <phrase id="EditSelectedLink" value="Editar registros seleccionados" class="icon-grid-edit ew-icon"/><!-- v2023 -->
+    <phrase id="Email" value="Correo electrónico"/><!-- v2021 -->
+    <phrase id="EmailAddress" value="Dirección de correo electrónico"/><!-- v2023 -->
+    <phrase id="EmailFormSender" value="De"/>
+    <phrase id="EmailFormRecipient" value="Para"/>
     <phrase id="EmailFormCc" value="Cc"/>
     <phrase id="EmailFormBcc" value="Bcc"/>
     <phrase id="EmailFormSubject" value="Asunto"/>
-    <phrase id="EmailFormMessage" value="Message"/>
-    <phrase id="EmailFormContentType" value="Send as"/>
+    <phrase id="EmailFormMessage" value="Mensaje"/>
+    <phrase id="EmailFormContentType" value="Enviar como"/>
     <phrase id="EmailFormContentTypeUrl" value="URL"/>
     <phrase id="EmailFormContentTypeHtml" value="HTML"/>
-    <phrase id="EmptyLabel" value="(Empty)"/><!-- v2020 -->
+    <phrase id="EmptyLabel" value="(Vacío)"/><!-- v2020 -->
     <phrase id="Enable2FA" value="Habilitar la autenticación de dos factores"/><!-- v2022 -->
     <phrase id="EnableNotifications" value="Permitir notificaciones"/><!-- v2022 -->
     <phrase id="EnterFilterName" value="Ingrese el nombre del filtro"/><!-- v12 -->
@@ -163,197 +163,197 @@
     <phrase id="EnterPassword" value="Por favor, ingrese contraseña"/>
     <phrase id="EnterRequiredField" value="Por favor ingrese el campo requerido - %s"/><!-- v2021 -->
     <phrase id="EnterSearchCriteria" value="Por favor ingrese los criterios de búsqueda"/>
-    <phrase id="EnterSecurityCodeGoogle" value="Please enter security code from the Google Authenticator (or backup code)"/><!-- v2023 -->
-    <phrase id="EnterSecurityCodeEmail" value="Please enter one time password sent to your email account (or backup code)"/><!-- v2023 -->
-    <phrase id="EnterSecurityCodeSms" value="Please enter one time password sent to your mobile phone (or backup code)"/><!-- v2023 -->
-    <phrase id="EnterSecurityCode" value="Please enter one time password for verification"/><!-- v2023 -->
-    <phrase id="EnterOTPEmailAddress" value="Please enter your email account to receive the one time password"/><!-- v2023 -->
-    <phrase id="EnterOTPMobileNumber" value="Please enter your mobile phone number to receive the one time password"/><!-- v2023 -->
+    <phrase id="EnterSecurityCodeGoogle" value="Por favor ingrese el código de seguridad de Google Authenticator (o código de respaldo)"/><!-- v2023 -->
+    <phrase id="EnterSecurityCodeEmail" value="Por favor ingrese la contraseña de un solo uso enviada a su cuenta de correo electrónico (o código de respaldo)"/><!-- v2023 -->
+    <phrase id="EnterSecurityCodeSms" value="Por favor ingrese la contraseña de un solo uso enviada a su teléfono móvil (o código de respaldo)"/><!-- v2023 -->
+    <phrase id="EnterSecurityCode" value="Por favor ingrese la contraseña de un solo uso para verificación"/><!-- v2023 -->
+    <phrase id="EnterOTPEmailAddress" value="Por favor ingrese su dirección de correo electrónico para recibir la contraseña de un solo uso"/><!-- v2023 -->
+    <phrase id="EnterOTPMobileNumber" value="Por favor ingrese su número de teléfono móvil para recibir la contraseña de un solo uso"/><!-- v2023 -->
     <phrase id="EnterUserName" value="Por favor ingrese nombre de usuario"/>
     <phrase id="EnterValidateCode" value="Por favor ingrese el código de validación"/><!-- v11 -->
-    <phrase id="EnterProperSenderEmail" value="Exceed maximum sender email count or email address incorrect"/>
-    <phrase id="EnterProperRecipientEmail" value="Exceed maximum recipient email count or email address incorrect"/>
-    <phrase id="EnterProperCcEmail" value="Exceed maximum cc email count or email address incorrect"/>
-    <phrase id="EnterProperBccEmail" value="Exceed maximum bcc email count or email address incorrect"/>
-    <phrase id="EnterSubject" value="Please enter subject"/>
-    <phrase id="EnterValue" value="Please enter value"/><!-- v2021 -->
-    <phrase id="EnterValue2" value="Please enter second value"/><!-- v2021 -->
-    <phrase id="Error" value="Error"/><!-- v2021 -->
-    <phrase id="ExactPhrase" value="Exact phrase"/>
-    <phrase id="ExceedMaxRetry" value="Exceed maximum login retry count. Account is locked. Please try again in %t minutes"/>
-    <phrase id="ExceedMaxEmailExport" value="Exceed maximum export email count. Please try again later"/>
-    <phrase id="ExportChart" value="Exporting chart: "/><!-- v2020 -->
-    <phrase id="ExportChartData" value="Exporting chart data"/><!-- v2020 -->
-    <phrase id="ExportChartError" value="Failed to export chart: "/><!-- v2020 -->
-    <phrase id="ExportClassNotFound" value="Export class not found"/><!-- v2019 -->
+    <phrase id="EnterProperSenderEmail" value="Excede el máximo de correos electrónicos de remitente o la dirección de correo electrónico es incorrecta"/>
+    <phrase id="EnterProperRecipientEmail" value="Excede el máximo de correos electrónicos de destinatario o la dirección de correo electrónico es incorrecta"/>
+    <phrase id="EnterProperCcEmail" value="Excede el máximo de correos electrónicos de copia o la dirección de correo electrónico es incorrecta"/>
+    <phrase id="EnterProperBccEmail" value="Excede el máximo de correos electrónicos de copia oculta o la dirección de correo electrónico es incorrecta"/>
+    <phrase id="EnterSubject" value="Por favor ingrese asunto"/>
+    <phrase id="EnterValue" value="Por favor ingrese valor"/><!-- v2021 -->
+    <phrase id="EnterValue2" value="Por favor ingrese segundo valor"/><!-- v2021 -->
+   <phrase id="Error" value="Error"/><!-- v2021 -->
+    <phrase id="ExactPhrase" value="Frase exacta"/>
+    <phrase id="ExceedMaxRetry" value="Se excedió el número máximo de intentos de inicio de sesión. La cuenta está bloqueada. Por favor, inténtelo de nuevo en %t minutos"/>
+    <phrase id="ExceedMaxEmailExport" value="Se excedió el número máximo de correos electrónicos para exportar. Por favor, inténtelo de nuevo más tarde"/>
+    <phrase id="ExportChart" value="Exportando gráfico: "/><!-- v2020 -->
+    <phrase id="ExportChartData" value="Exportando datos del gráfico"/><!-- v2020 -->
+    <phrase id="ExportChartError" value="Error al exportar gráfico: "/><!-- v2020 -->
+    <phrase id="ExportClassNotFound" value="Clase de exportación no encontrada"/><!-- v2019 -->
     <phrase id="Exporting" value="Exportando, por favor espere..."/><!-- v2018 -->
     <phrase id="ExportToCsv" value="Exportar a CSV" class="icon-csv ew-icon"/><!-- v11 -->
-    <phrase id="ExportToEmail" value="Email" class="fa-regular fa-envelope ew-icon"/><!-- v2023 -->
+    <phrase id="ExportToEmail" value="Correo electrónico" class="fa-regular fa-envelope ew-icon"/><!-- v2023 -->
     <phrase id="ExportToExcel" value="Exportar a Excel" class="icon-excel ew-icon"/><!-- v11 -->
     <phrase id="ExportToHtml" value="Exportar a HTML" class="icon-html ew-icon"/><!-- v11 -->
     <phrase id="ExportToPdf" value="Exportar a PDF" class="icon-pdf ew-icon"/><!-- v11 -->
     <phrase id="ExportToWord" value="Exportar a Word" class="icon-word ew-icon"/><!-- v11 -->
     <phrase id="ExportToXml" value="Exportar a XML" class="icon-xml ew-icon"/><!-- v11 -->
     <phrase id="FailedToExport" value="Error al exportar"/><!-- v2018 -->
-    <phrase id="FailedToSendMail" value="Failed to send email."/>
-    <phrase id="FieldName" value="Field Name"/>
+    <phrase id="FailedToSendMail" value="Error al enviar correo electrónico."/>
+    <phrase id="FieldName" value="Nombre del campo"/>
     <phrase id="FieldRequiredIndicator" value="" class="fa-solid fa-asterisk ew-required"/><!-- v2023 -->
-    <phrase id="FileNotFound" value="File not found"/>
-    <phrase id="Filter" value="Filter" class="fa-solid fa-filter"/><!-- v2023 -->
+    <phrase id="FileNotFound" value="Archivo no encontrado"/>
+    <phrase id="Filter" value="Filtro" class="fa-solid fa-filter"/><!-- v2023 -->
     <phrase id="FilterAllRecords" value="Todos los registros"/><!-- v2022 -->
     <phrase id="FilterCancel" value="Cancelar"/><!-- v2022 -->
-    <phrase id="FilterName" value="Filter name"/><!-- v12 -->
+    <phrase id="FilterName" value="Nombre del filtro"/><!-- v12 -->
     <phrase id="FilterNoValue" value="Ningún valor seleccionado"/><!-- v2022 -->
     <phrase id="FilterOK" value="OK"/><!-- v2022 -->
     <phrase id="Filters" value="Filtros" class="fa-solid fa-filter ew-icon"/><!-- v2023 -->
-    <phrase id="ResetPasswordResponse" value="You will receive password recovery instructions shortly if your email address is registered."/><!-- v2019 -->
+    <phrase id="ResetPasswordResponse" value="En breve recibirás instrucciones para recuperar tu contraseña si tu correo electrónico está registrado."/><!-- v2019 -->
     <phrase id="ResetPassword" value="Restablecer la contraseña"/><!-- v2020 -->
     <phrase id="GeneratePassword" value="Generar contraseña" class="fa-solid fa-bolt ew-icon"/><!-- v2023 -->
-    <phrase id="GetNewCodes" value="Get new codes"/><!-- v2022 -->
-    <phrase id="GoBack" value="Go Back"/>
-    <phrase id="GridAddCancelled" value="Grid Add cancelled"/><!-- v11 -->
-    <phrase id="GridAddLink" value="Grid Add" class="icon-grid-add ew-icon"/><!-- v11 -->
-    <phrase id="GridCancelLink" value="Cancel" class="fa-solid fa-xmark ew-icon"/><!-- v2023 -->
-    <phrase id="GridEditCancelled" value="Grid edit cancelled"/><!-- v11 -->
-    <phrase id="GridEditLink" value="Grid Edit" class="icon-grid-edit ew-icon"/><!-- v11 -->
-    <phrase id="GridInsertLink" value="Insert" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
+    <phrase id="GetNewCodes" value="Obtener nuevos códigos"/><!-- v2022 -->
+    <phrase id="GoBack" value="Volver"/>
+    <phrase id="GridAddCancelled" value="Agregar en cuadrícula cancelado"/><!-- v11 -->
+    <phrase id="GridAddLink" value="Agregar en cuadrícula" class="icon-grid-add ew-icon"/><!-- v11 -->
+    <phrase id="GridCancelLink" value="Cancelar" class="fa-solid fa-xmark ew-icon"/><!-- v2023 -->
+    <phrase id="GridEditCancelled" value="Edición en cuadrícula cancelada"/><!-- v11 -->
+    <phrase id="GridEditLink" value="Editar en cuadrícula" class="icon-grid-edit ew-icon"/><!-- v11 -->
+    <phrase id="GridInsertLink" value="Insertar" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
     <phrase id="GridSaveLink" value="Guardar" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
-    <phrase id="Group" value="Groups"/><!-- v2020 -->
-    <phrase id="GroupsPerPage" value="Groups per page"/><!-- v2020 -->
-    <phrase id="Highlight" value="Highlight"/><!-- v11 -->
-    <phrase id="HighlightBtn" value="Highlight" class="fa-solid fa-highlighter ew-icon"/><!-- v2023 -->
-    <phrase id="HomePage" value="Home" class="fa-solid fa-house ew-icon"/><!-- v2023 -->
-    <phrase id="Import" value="Import" class="fa-solid fa-upload ew-icon"/><!-- v2023 -->
-    <phrase id="ImportMaxFailuresExceeded" value="Maximum number of errors (%s) exceeded"/><!-- v2023 -->
-    <phrase id="ImportRowError" value="Failed to import row #%i: %e"/><!-- v2023 -->
-    <phrase id="ImportInvalidFileExtension" value="Invalid file extension '%e'"/><!-- v2023 -->
-    <phrase id="ImportInvalidFieldName" value="Invalid field name: %f"/><!-- v2023 -->
-    <phrase id="ImportInvalidFieldValue" value="Invalid value for field '%f': %v"/><!-- v2023 -->
-    <phrase id="ImportNoHeaderRow" value="No header row for import"/><!-- v2023 -->
-    <phrase id="ImportResult" value="Processed %c of %t records from %f (success: %s, failure: %e)"/><!-- v2023 -->
-    <phrase id="ImportSave" value="The records are not saved yet. If you accept the results, press 'Save' button."/><!-- v2023 -->
-    <phrase id="ImportServerError" value="Failed to process uploaded file(s)"/><!-- v2023 -->
-    <phrase id="ImportUploadError" value="Failed to upload %f: %s"/><!-- v2023 -->
-    <phrase id="ImportUploadComplete" value="Upload completed, processing file(s)..."/><!-- v2023 -->
-    <phrase id="ImportUploadProgress" value="Uploading...(p%)"/><!-- v2023 -->
-    <phrase id="IncorrectCreditCard" value="Incorrect credit card number"/><!-- v2021 -->
-    <phrase id="IncorrectDate" value="Incorrect date (%s)"/><!-- v2021 -->
-    <phrase id="IncorrectEmail" value="Incorrect email"/>
-    <phrase id="IncorrectField" value="Incorrect field value"/>
-    <phrase id="IncorrectFloat" value="Incorrect floating point number"/>
-    <phrase id="IncorrectGUID" value="Incorrect GUID"/>
-    <phrase id="IncorrectInteger" value="Incorrect integer"/>
-    <phrase id="IncorrectMin" value="Number must be larger than or equal to %s"/><!-- v2023 -->
-    <phrase id="IncorrectMinDate" value="Date/Time must be later than or same as %s"/><!-- v2023 -->
-    <phrase id="IncorrectMax" value="Number must be smaller than or equal to %s"/><!-- v2023 -->
-    <phrase id="IncorrectMaxDate" value="Date/Time must be eariler than or same as %s"/><!-- v2023 -->
-    <phrase id="IncorrectPhone" value="Incorrect phone number"/>
-    <phrase id="IncorrectRange" value="Number must be between %1 and %2"/>
-    <phrase id="IncorrectRegExp" value="Regular expression not matched"/>
-    <phrase id="IncorrectSecurityCode" value="Incorrect security code"/><!-- v2022 -->
-    <phrase id="IncorrectSSN" value="Incorrect social security number"/>
-    <phrase id="IncorrectTime" value="Incorrect time (%s)"/><!-- v2022 -->
-    <phrase id="IncorrectUrl" value="Invalid URL"/><!-- v2022 -->
-    <phrase id="IncorrectValidationCode" value="Incorrect validation code, please enter again."/><!-- v2021 -->
-    <phrase id="IncorrectZip" value="Incorrect ZIP code"/>
-    <phrase id="Info" value="Information"/><!-- v2020 -->
-    <phrase id="InlineAddLink" value="Inline Add" class="icon-inline-add ew-icon"/><!-- v11 -->
-    <phrase id="InlineCopyLink" value="Inline Copy" class="icon-inline-copy ew-icon"/><!-- v11 -->
-    <phrase id="InlineEditLink" value="Inline Edit" class="icon-inline-edit ew-icon"/><!-- v11 -->
-    <phrase id="InsertCancelled" value="Insert cancelled"/>
-    <phrase id="InsertFailed" value="Insert failed"/>
-    <phrase id="InsertLink" value="Insert" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
-    <phrase id="InsertSuccess" value="Inserted successfully"/>
-    <phrase id="InvalidDate" value="Invalid date"/><!-- v2021 -->
-    <phrase id="InvalidKeyValue" value="Invalid key value"/>
-    <phrase id="InvalidRecord" value="Invalid Record! Key is null"/>
-    <phrase id="InvalidPostRequest" value="Invalid post request"/><!-- v11 -->
-    <phrase id="InvalidParameter" value="Parametro invalido"/>
-    <phrase id="InvalidPassword" value="Contraseña invalida"/>
-    <phrase id="InvalidPasswordChars" value="Password must not contain &amp;, &lt;, &gt;, &quot;, or &apos;"/><!-- v2021 -->
-    <phrase id="InvalidNewPassword" value="Nueva contraseña no válida"/>
-    <phrase id="InvalidUidPwd" value="Nombre de usuario o contraseña incorrecta"/>
-    <phrase id="InvalidUsernameChars" value="El nombre de usuario no debe contener &amp;, &lt;, &gt;, &quot;, or &apos;"/><!-- v2021 -->
+    <phrase id="Group" value="Grupos"/><!-- v2020 -->
+    <phrase id="GroupsPerPage" value="Grupos por página"/><!-- v2020 -->
+    <phrase id="Highlight" value="Resaltar"/><!-- v11 -->
+    <phrase id="HighlightBtn" value="Resaltar" class="fa-solid fa-highlighter ew-icon"/><!-- v2023 -->
+    <phrase id="HomePage" value="Inicio" class="fa-solid fa-house ew-icon"/><!-- v2023 -->
+    <phrase id="Import" value="Importar" class="fa-solid fa-upload ew-icon"/><!-- v2023 -->
+    <phrase id="ImportMaxFailuresExceeded" value="Se superó el número máximo de errores (%s)"/><!-- v2023 -->
+    <phrase id="ImportRowError" value="Error al importar la fila #%i: %e"/><!-- v2023 -->
+    <phrase id="ImportInvalidFileExtension" value="Extensión de archivo '%e' no válida"/><!-- v2023 -->
+    <phrase id="ImportInvalidFieldName" value="Nombre de campo no válido: %f"/><!-- v2023 -->
+    <phrase id="ImportInvalidFieldValue" value="Valor no válido para el campo '%f': %v"/><!-- v2023 -->
+    <phrase id="ImportNoHeaderRow" value="No hay fila de encabezado para la importación"/><!-- v2023 -->
+    <phrase id="ImportResult" value="Procesados %c de %t registros de %f (éxito: %s, fracaso: %e)"/><!-- v2023 -->
+    <phrase id="ImportSave" value="Los registros aún no se han guardado. Si acepta los resultados, presione el botón 'Guardar'."/><!-- v2023 -->
+    <phrase id="ImportServerError" value="No se pudo procesar el(los) archivo(s) cargado(s)"/><!-- v2023 -->
+    <phrase id="ImportUploadError" value="No se pudo cargar %f: %s"/><!-- v2023 -->
+    <phrase id="ImportUploadComplete" value="Carga completada, procesando archivo(s)..."/><!-- v2023 -->
+    <phrase id="ImportUploadProgress" value="Cargando... (p%)"/><!-- v2023 -->
+    <phrase id="IncorrectCreditCard" value="Número de tarjeta de crédito incorrecto"/><!-- v2021 -->
+    <phrase id="IncorrectDate" value="Fecha incorrecta (%s)"/><!-- v2021 -->
+    <phrase id="IncorrectEmail" value="Correo electrónico incorrecto"/>
+    <phrase id="IncorrectField" value="Valor del campo incorrecto"/>
+    <phrase id="IncorrectFloat" value="Número decimal incorrecto"/>
+    <phrase id="IncorrectGUID" value="GUID incorrecto"/>
+    <phrase id="IncorrectInteger" value="Número entero incorrecto"/>
+    <phrase id="IncorrectMin" value="El número debe ser mayor o igual a %s"/><!-- v2023 -->
+    <phrase id="IncorrectMinDate" value="La fecha/hora debe ser posterior o igual a %s"/><!-- v2023 -->
+    <phrase id="IncorrectMax" value="El número debe ser menor o igual a %s"/><!-- v2023 -->
+    <phrase id="IncorrectMaxDate" value="La fecha/hora debe ser anterior o igual a %s"/><!-- v2023 -->
+    <phrase id="IncorrectPhone" value="Número de teléfono incorrecto"/>
+    <phrase id="IncorrectRange" value="El número debe estar entre %1 y %2"/>
+    <phrase id="IncorrectRegExp" value="Expresión regular no coincidente"/>
+    <phrase id="IncorrectSecurityCode" value="Código de seguridad incorrecto"/><!-- v2022 -->
+    <phrase id="IncorrectSSN" value="Número de Seguro Social incorrecto"/>
+    <phrase id="IncorrectTime" value="Hora incorrecta (%s)"/><!-- v2022 -->
+    <phrase id="IncorrectUrl" value="URL inválido"/><!-- v2022 -->
+    <phrase id="IncorrectValidationCode" value="Código de validación incorrecto, por favor ingréselo de nuevo."/><!-- v2021 -->
+    <phrase id="IncorrectZip" value="Código ZIP incorrecto"/>
+    <phrase id="Info" value="Información"/><!-- v2020 -->
+    <phrase id="InlineAddLink" value="Agregar en línea" class="icon-inline-add ew-icon"/><!-- v11 -->
+    <phrase id="InlineCopyLink" value="Copiar en línea" class="icon-inline-copy ew-icon"/><!-- v11 -->
+    <phrase id="InlineEditLink" value="Editar en línea" class="icon-inline-edit ew-icon"/><!-- v11 -->
+    <phrase id="InsertCancelled" value="Inserción cancelada"/>
+    <phrase id="InsertFailed" value="Inserción fallida"/>
+    <phrase id="InsertLink" value="Insertar" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
+    <phrase id="InsertSuccess" value="Insertado exitosamente"/>
+    <phrase id="InvalidDate" value="Fecha inválida"/><!-- v2021 -->
+    <phrase id="InvalidKeyValue" value="Valor de clave inválido"/>
+    <phrase id="InvalidRecord" value="Registro inválido. La clave es nula."/>
+    <phrase id="InvalidPostRequest" value="Petición de inserción inválida"/><!-- v11 -->
+    <phrase id="InvalidParameter" value="Parámetro inválido"/>
+    <phrase id="InvalidPassword" value="Contraseña inválida"/>
+    <phrase id="InvalidPasswordChars" value="La contraseña no debe contener &amp;, &lt;, &gt;, &quot;, o &apos;"/><!-- v2021 -->
+    <phrase id="InvalidNewPassword" value="Nueva contraseña inválida"/>
+    <phrase id="InvalidUidPwd" value="Usuario o contraseña inválidos"/>
+    <phrase id="InvalidUsernameChars" value="El nombre de usuario no debe contener &amp;, &lt;, &gt;, &quot;, o &apos;"/><!-- v2021 -->
     <phrase id="JwtTokenExpired" value="Su sesión ha expirado, actualice su página."/><!-- v2023 -->
     <phrase id="Language" value="Idioma"/>
-    <phrase id="LearnMore" value="Learn More"/><!-- v2019 -->
-    <phrase id="LightboxTitle" value=" "/><!-- v11 -->
-    <phrase id="LightboxCurrent" value="image {current} of {total}"/><!-- Note: DO NOT translate "{current}" and "{total}" --><!-- v11 -->
-    <phrase id="LightboxPrevious" value="anterior"/><!-- v11 -->
-    <phrase id="LightboxNext" value="siguiente"/><!-- v11 -->
-    <phrase id="LightboxClose" value="cerrar"/><!-- v11 -->
-    <phrase id="LightboxXhrError" value="This content failed to load."/><!-- v11 -->
-    <phrase id="LightboxImgError" value="This image failed to load."/><!-- v11 -->
-    <phrase id="List" value=""/><!-- v2019 -->
-    <phrase id="ListActionButton" value="Actions" class="fa-solid fa-ellipsis-vertical"/><!-- v2023 -->
+    <phrase id="LearnMore" value="Más información"/>
+    <phrase id="LightboxTitle" value=" "/>
+    <phrase id="LightboxCurrent" value="imagen {current} de {total}"/>
+    <phrase id="LightboxPrevious" value="anterior"/>
+    <phrase id="LightboxNext" value="siguiente"/>
+    <phrase id="LightboxClose" value="cerrar"/>
+    <phrase id="LightboxXhrError" value="El contenido no se pudo cargar."/>
+    <phrase id="LightboxImgError" value="Esta imagen no se pudo cargar."/>
+    <phrase id="List" value=""/>
+    <phrase id="ListActionButton" value="Acciones" class="fa-solid fa-ellipsis-vertical"/>
     <phrase id="Loading" value="Cargando..."/>
     <phrase id="Login" value="Ingresar" class="fa-solid fa-arrow-right-to-bracket ew-icon"/><!-- v2023 -->
     <phrase id="LoginAzure" value="Ingresar con Azure" class="fa-brands fa-microsoft"/><!-- v2023 -->
     <phrase id="LoginCancelled" value="Inicio de sesión cancelado"/>
     <phrase id="LoginFacebook" value="Iniciar sesión con Facebook" class="fa-brands fa-facebook-f"/><!-- v2023 -->
     <phrase id="LoginSucceeded" value="Inicio de sesión exitoso, redirigiendo ..."/><!-- v2023 -->
-    <phrase id="LoginFailed" value="Login with %p failed"/><!-- v2018 -->
-    <phrase id="LoginGoogle" value="Login with Google" class="fa-brands fa-google"/><!-- v2023 -->
+    <phrase id="LoginFailed" value="Inicio de sesión con %p falló"/><!-- v2018 -->
+    <phrase id="LoginGoogle" value="Iniciar sesión con Google" class="fa-brands fa-google"/><!-- v2023 -->
     <phrase id="LoginMsg" value="Inicia sesión para comenzar"/><!-- v2019 -->
     <phrase id="LoginOptions" value="Opciones"/><!-- v11 -->
     <phrase id="LoginOr" value="- O -"/><!-- v2018 -->
-    <phrase id="LoginSaml" value="Inicia sesión con SAML" class="fa-solid fa-user-shield"/><!-- v2023 -->
+    <phrase id="LoginSaml" value="Iniciar sesión con SAML" class="fa-solid fa-user-shield"/><!-- v2023 -->
     <phrase id="LoginPage" value="Acceso"/>
-    <phrase id="Login2FAPage" value="Acceso (Two factor authentication)"/><!-- v2022 -->
+    <phrase id="Login2FAPage" value="Acceso (Autenticación de dos factores)"/><!-- v2022 -->
     <phrase id="Logout" class="fa-solid fa-arrow-right-from-bracket ew-icon" value="Cerrar sesión"/><!-- v2023 -->
     <phrase id="LookupTitle" value="Buscar - %s"/><!-- v2022 -->
-    <phrase id="MasterDetailCopyLink" value="Master/Detail Copy" class="icon-md-copy ew-icon"/><!-- v11 -->
-    <phrase id="MasterDetailEditLink" value="Master/Detail Edit" class="icon-md-edit ew-icon"/><!-- v11 -->
-    <phrase id="MasterDetailListLink" value="Detail List" class="fa-solid fa-table-list ew-icon"/><!-- v2023 -->
-    <phrase id="MasterDetailViewLink" value="Master/Detail View" class="icon-md-view ew-icon"/><!-- v11 -->
-    <phrase id="MaxFileSize" value="Max. file size (%s bytes) exceeded."/>
+    <phrase id="MasterDetailCopyLink" value="Copia de Maestro/Detalle" class="icon-md-copy ew-icon"/><!-- v11 -->
+    <phrase id="MasterDetailEditLink" value="Editar Maestro/Detalle" class="icon-md-edit ew-icon"/><!-- v11 -->
+    <phrase id="MasterDetailListLink" value="Lista de Detalle" class="fa-solid fa-table-list ew-icon"/><!-- v2023 -->
+    <phrase id="MasterDetailViewLink" value="Vista de Maestro/Detalle" class="icon-md-view ew-icon"/><!-- v11 -->
+    <phrase id="MaxFileSize" value="Tamaño máximo del archivo (%s bytes) excedido."/>
     <phrase id="MismatchPassword" value="Contraseña no coincidente"/>
-    <phrase id="MissingLookupTableName" value="Missing lookup table name"/>
-    <phrase id="MissingDisplayFieldName" value="Missing display field name"/>
-    <phrase id="MissingDisplayFieldValue" value="Missing display field value"/>
-    <phrase id="MissingPDFObject" value="Missing PDFObject"/><!-- v2020 -->
-    <phrase id="MissingUserLevelID" value="Missing User Level ID"/>
-    <phrase id="MissingUserLevelName" value="Missing User Level name"/>
-    <phrase id="MobileNumber" value="Mobile phone number"/><!-- v2023 -->
-    <phrase id="MultiColumnCards" value="Cards view" class="fa-solid fa-table-cells-large ew-icon"/><!-- v2023 -->
-    <phrase id="MultiColumnTable" value="Table view" class="fa-solid fa-table-list ew-icon"/><!-- v2023 -->
-    <phrase id="MultipleMasterDetails" value="Master/Detail" class="icon-master-detail ew-icon"/><!-- v11 -->
+    <phrase id="MissingLookupTableName" value="Falta el nombre de la tabla de búsqueda"/>
+    <phrase id="MissingDisplayFieldName" value="Falta el nombre del campo de visualización"/>
+    <phrase id="MissingDisplayFieldValue" value="Falta el valor del campo de visualización"/>
+    <phrase id="MissingPDFObject" value="Falta el objeto PDFObject"/><!-- v2020 -->
+    <phrase id="MissingUserLevelID" value="Falta el ID del nivel de usuario"/>
+    <phrase id="MissingUserLevelName" value="Falta el nombre del nivel de usuario"/>
+    <phrase id="MobileNumber" value="Número de teléfono móvil"/><!-- v2023 -->
+    <phrase id="MultiColumnCards" value="Vista de tarjetas" class="fa-solid fa-table-cells-large ew-icon"/><!-- v2023 -->
+    <phrase id="MultiColumnTable" value="Vista de tabla" class="fa-solid fa-table-list ew-icon"/><!-- v2023 -->
+    <phrase id="MultipleMasterDetails" value="Maestro/Detalle" class="icon-master-detail ew-icon"/><!-- v11 -->
     <phrase id="NewPassword" value="Nueva contraseña"/><!-- v2021 -->
-    <phrase id="Next" value="Next"/><!-- v12 -->
-    <phrase id="NoAddRecord" value="No records to be added"/>
-    <phrase id="NoFieldSelected" value="No field selected for update"/>
-    <phrase id="NoPermission" value="You do not have permission to access %s."/><!-- v12 -->
-    <phrase id="NoAddPermission" value="You do not have permission to add the record."/>
-    <phrase id="NoChartData" value="No data to display"/><!-- v2020 -->
-    <phrase id="NoDeletePermission" value="You do not have permission to delete the record."/>
-    <phrase id="NoDistinctColVals" value="No distinct column values for SQL: "/><!-- v2020 -->
-    <phrase id="NoEditPermission" value="You do not have permission to edit the record."/>
-    <phrase id="NoHtmlForm" value="HTML form not found"/><!-- v2022 -->
-    <phrase id="NoRecord" value="No records found"/><!-- v2017 -->
-    <phrase id="NoRecordForKey" value="No record found for key = "/>
-    <phrase id="NoReportOrCharts" value="No report or charts are available for this page."/><!-- v2020 -->
-    <phrase id="NoRecordSelected" value="No records selected"/>
-    <phrase id="NoSubscription" value="You have no subscription"/><!-- v2022 -->
-    <phrase id="NoSubscriptions" value="No subscriptions found"/><!-- v2022 -->
-    <phrase id="NoTableGenerated" value="No tables generated"/>
-    <phrase id="Notice" value="Notice"/><!-- v2021 -->
-    <phrase id="Notifications" value="Notifications" class="fa-solid fa-bell ew-icon"/><!-- v2023 -->
-    <phrase id="NotificationsDisabled" value="Notifications disabled"/><!-- v2022 -->
-    <phrase id="NotificationsEnabled" value="Notifications enabled"/><!-- v2022 -->
-    <phrase id="NoUserLevel" value="No user level settings."/>
-    <phrase id="NullLabel" value="(Null)"/><!-- v2020 -->
-    <phrase id="Of" value="of"/><!-- v2017 -->
-    <phrase id="OKBtn" value="OK"/><!-- v2021 -->
-    <phrase id="Old" value="Old"/>
+    <phrase id="Next" value="Siguiente"/><!-- v12 -->
+    <phrase id="NoAddRecord" value="No hay registros para agregar"/>
+    <phrase id="NoFieldSelected" value="No se ha seleccionado ningún campo para actualizar"/>
+    <phrase id="NoPermission" value="No tiene permiso para acceder a %s."/><!-- v12 -->
+    <phrase id="NoAddPermission" value="No tiene permiso para agregar el registro."/>
+    <phrase id="NoChartData" value="No hay datos para mostrar"/><!-- v2020 -->
+    <phrase id="NoDeletePermission" value="No tiene permiso para eliminar el registro."/>
+    <phrase id="NoDistinctColVals" value="No hay valores de columna distintos para SQL: "/><!-- v2020 -->
+    <phrase id="NoEditPermission" value="No tiene permiso para editar el registro."/>
+    <phrase id="NoHtmlForm" value="Formulario HTML no encontrado"/><!-- v2022 -->
+    <phrase id="NoRecord" value="No se encontraron registros"/><!-- v2017 -->
+    <phrase id="NoRecordForKey" value="No se encontró ningún registro para la clave = "/>
+    <phrase id="NoReportOrCharts" value="No hay informes ni gráficos disponibles para esta página."/><!-- v2020 -->
+    <phrase id="NoRecordSelected" value="No se seleccionaron registros"/>
+    <phrase id="NoSubscription" value="No tienes suscripción"/><!-- v2022 -->
+    <phrase id="NoSubscriptions" value="No se encontraron suscripciones"/><!-- v2022 -->
+    <phrase id="NoTableGenerated" value="No se generaron tablas"/>
+    <phrase id="Notice" value="Aviso"/><!-- v2021 -->
+    <phrase id="Notifications" value="Notificaciones" class="fa-solid fa-bell ew-icon"/><!-- v2023 -->
+    <phrase id="NotificationsDisabled" value="Notificaciones desactivadas"/><!-- v2022 -->
+    <phrase id="NotificationsEnabled" value="Notificaciones activadas"/><!-- v2022 -->
+    <phrase id="NoUserLevel" value="No hay ajustes de nivel de usuario."/>
+    <phrase id="NullLabel" value="(Nulo)"/><!-- v2020 -->
+    <phrase id="Of" value="de"/><!-- v2017 -->
+    <phrase id="OKBtn" value="Aceptar"/><!-- v2021 -->
+    <phrase id="Old" value="Antiguo"/>
     <phrase id="OldPassword" value="Contraseña anterior"/><!-- v2021 -->
     <phrase id="OverwriteBtn" value="Sobrescribir"/><!-- v2017 -->
     <phrase id="OverwriteLink" value="Sobrescribir"/>
     <phrase id="Page" value="Página"/><!-- v2017 -->
-    <phrase id="PageNotFound" value="Route '%p' not found."/><!-- v2021 -->
+    <phrase id="PageNotFound" value="Ruta '%p' no encontrada."/><!-- v2021 -->
     <phrase id="PagerFirst" value="Primero"/>
     <phrase id="PagerLast" value="Último"/>
-    <phrase id="PagerNext" value="Próximo"/>
-    <phrase id="PagerPrevious" value="Previo"/>
+    <phrase id="PagerNext" value="Siguiente"/>
+    <phrase id="PagerPrevious" value="Anterior"/>
     <phrase id="Password" value="Contraseña"/><!-- v2021 -->
     <phrase id="PasswordMask" value="********"/><!-- v12 -->
     <phrase id="PasswordRequest" value="Solicitud de contraseña"/>
@@ -362,42 +362,42 @@
     <phrase id="PasswordStrength" value="Fuerza: %p"/><!-- v12 -->
     <phrase id="PasswordTooSimple" value="Tu contraseña es demasiado simple"/><!-- v12 -->
     <phrase id="Permission" value="permisos" class="fa-solid fa-user ew-icon"/><!-- v2023 -->
-    <phrase id="PermissionAdd" value="Add/Copy"/><!-- v2020 -->
-    <phrase id="PermissionAdmin" value="Admin"/><!-- v2019 -->
-    <phrase id="PermissionDelete" value="Delete"/><!-- v2018 -->
-    <phrase id="PermissionEdit" value="Edit"/><!-- v2018 -->
-    <phrase id="PermissionExport" value="Export"/><!-- v2023 -->
-    <phrase id="PermissionImport" value="Import"/><!-- v2020 -->
-    <phrase id="PermissionListSearchView" value="List/Search/View"/><!-- v2018 -->
-    <phrase id="PermissionList" value="List"/><!-- v2018 -->
-    <phrase id="PermissionLookup" value="Lookup"/><!-- v2020 -->
-    <phrase id="PermissionPush" value="Push"/><!-- v2023 -->
+    <phrase id="PermissionAdd" value="Agregar/Copiar"/><!-- v2020 -->
+    <phrase id="PermissionAdmin" value="Administrar"/><!-- v2019 -->
+    <phrase id="PermissionDelete" value="Borrar"/><!-- v2018 -->
+    <phrase id="PermissionEdit" value="Editar"/><!-- v2018 -->
+    <phrase id="PermissionExport" value="Exportar"/><!-- v2023 -->
+    <phrase id="PermissionImport" value="Importar"/><!-- v2020 -->
+    <phrase id="PermissionListSearchView" value="Listar/Buscar/Ver"/><!-- v2018 -->
+    <phrase id="PermissionList" value="Listar"/><!-- v2018 -->
+    <phrase id="PermissionLookup" value="Buscar"/><!-- v2020 -->
+    <phrase id="PermissionPush" value="Enviar"/><!-- v2023 -->
     <phrase id="PermissionSearch" value="Buscar"/><!-- v2018 -->
     <phrase id="PermissionView" value="Ver"/><!-- v2018 -->
-    <phrase id="PersonalDataBtn" value="Información personal"/><!-- v2019 -->
+    <phrase id="PersonalDataBtn" value="Datos personales"/><!-- v2019 -->
     <phrase id="PersonalDataContent" value="Su cuenta contiene datos personales que nos ha proporcionado. Esta página le permite descargar o eliminar esos datos."/><!-- v2019 -->
-    <phrase id="PersonalDataDeleteFailure" value="Ocurrió un error inesperado al eliminar el usuario"/><!-- v2019 -->
+    <phrase id="PersonalDataDeleteFailure" value="Ocurrió un error inesperado al eliminar los datos personales"/><!-- v2019 -->
     <phrase id="PersonalDataDeleteSuccess" value="Datos personales eliminados con éxito"/><!-- v2019 -->
-    <phrase id="PersonalDataTitle" value="Información personal"/><!-- v2019 -->
-    <phrase id="PersonalDataWarning" value="Eliminar estos datos eliminará permanentemente su cuenta y no se podrá recuperar."/><!-- v2019 -->
+    <phrase id="PersonalDataTitle" value="Datos personales"/><!-- v2019 -->
+    <phrase id="PersonalDataWarning" value="Eliminar estos datos eliminará permanentemente su cuenta y no se podrán recuperar."/><!-- v2019 -->
     <phrase id="PleaseSelect" value="Por favor seleccione"/><!-- v12 -->
-    <phrase id="Prev" value="Ant"/><!-- v12 -->
-    <phrase id="PrimaryKeyUnspecified" value="Primary key unspecified"/>
-    <phrase id="PrinterFriendly" value="Apto para imprimir" class="fa-solid fa-print ew-icon"/><!-- v2023 -->
-    <phrase id="PrivacyPolicy" value="Política de Privacidad"/><!-- v2019 -->
-    <phrase id="PrivacyPolicyContent" value="Use this page to detail your site's privacy policy."/><!-- v2019 -->
-    <phrase id="PushNotificationDefaultTitle" value="New Notification"/><!-- v2022 -->
-    <phrase id="PushNotificationFormTitle" value="Title"/><!-- v2022 -->
-    <phrase id="PushNotificationFormBody" value="Body"/><!-- v2022 -->
-    <phrase id="PushNotificationFailure" value="Failed to send push notifications (failure = %f)"/><!-- v2022 -->
-    <phrase id="PushNotificationSent" value="Push notifications are sent&lt;br&gt;(success = %s, failure = %f)"/><!-- v2022 -->
-    <phrase id="PushNotificationSuccess" value="All push notifications are sent (success = %s)"/><!-- v2022 -->
-    <phrase id="QueryBuilder" value="Query Builder" class="fa-solid fa-sliders ew-icon"/><!-- v2023 -->
+    <phrase id="Prev" value="Anterior"/><!-- v12 -->
+    <phrase id="PrimaryKeyUnspecified" value="Clave primaria no especificada"/>
+    <phrase id="PrinterFriendly" value="Versión para imprimir" class="fa-solid fa-print ew-icon"/><!-- v2023 -->
+    <phrase id="PrivacyPolicy" value="Política de privacidad"/><!-- v2019 -->
+    <phrase id="PrivacyPolicyContent" value="Use esta página para detallar la política de privacidad de su sitio."/><!-- v2019 -->
+    <phrase id="PushNotificationDefaultTitle" value="Nueva notificación"/><!-- v2022 -->
+    <phrase id="PushNotificationFormTitle" value="Título"/><!-- v2022 -->
+    <phrase id="PushNotificationFormBody" value="Cuerpo"/><!-- v2022 -->
+    <phrase id="PushNotificationFailure" value="Error al enviar notificaciones push (failure = %f)"/><!-- v2022 -->
+    <phrase id="PushNotificationSent" value="Las notificaciones push han sido enviadas&lt;br&gt;(success = %s, failure = %f)"/><!-- v2022 -->
+    <phrase id="PushNotificationSuccess" value="Todas las notificaciones push han sido enviadas (success = %s)"/><!-- v2022 -->
+    <phrase id="QueryBuilder" value="Constructor de consultas" class="fa-solid fa-sliders ew-icon"/><!-- v2023 -->
     <phrase id="QuickSearchAuto" value="Auto"/><!-- v11 -->
     <phrase id="QuickSearchAutoShort" value=""/><!-- v11 -->
-    <phrase id="QuickSearchAll" value="All keywords"/><!-- v11 -->
-    <phrase id="QuickSearchAllShort" value="All"/><!-- v11 -->
-    <phrase id="QuickSearchAny" value="Any keywords"/><!-- v11 -->
+    <phrase id="QuickSearchAll" value="Todas las palabras clave"/><!-- v11 -->
+    <phrase id="QuickSearchAllShort" value="Todas"/><!-- v11 -->
+    <phrase id="QuickSearchAny" value="Cualquier palabra clave"/><!-- v11 -->
     <phrase id="QuickSearchAnyShort" value="Cualquiera"/><!-- v11 -->
     <phrase id="QuickSearchExact" value="Exact match"/><!-- v11 -->
     <phrase id="QuickSearchExactShort" value="Exact"/><!-- v11 -->
