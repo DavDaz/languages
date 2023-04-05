@@ -178,7 +178,7 @@
     <phrase id="EnterSubject" value="Por favor ingrese asunto"/>
     <phrase id="EnterValue" value="Por favor ingrese valor"/><!-- v2021 -->
     <phrase id="EnterValue2" value="Por favor ingrese segundo valor"/><!-- v2021 -->
-   <phrase id="Error" value="Error"/><!-- v2021 -->
+    <phrase id="Error" value="Error"/><!-- v2021 -->
     <phrase id="ExactPhrase" value="Frase exacta"/>
     <phrase id="ExceedMaxRetry" value="Se excedió el número máximo de intentos de inicio de sesión. La cuenta está bloqueada. Por favor, inténtelo de nuevo en %t minutos"/>
     <phrase id="ExceedMaxEmailExport" value="Se excedió el número máximo de correos electrónicos para exportar. Por favor, inténtelo de nuevo más tarde"/>
@@ -278,7 +278,7 @@
     <phrase id="Language" value="Idioma"/>
     <phrase id="LearnMore" value="Más información"/>
     <phrase id="LightboxTitle" value=" "/>
-    <phrase id="LightboxCurrent" value="imagen {current} de {total}"/>
+    <phrase id="LightboxCurrent" value="image {current} of {total}"/><!-- Note: DO NOT translate "{current}" and "{total}" --><!-- v11 -->
     <phrase id="LightboxPrevious" value="anterior"/>
     <phrase id="LightboxNext" value="siguiente"/>
     <phrase id="LightboxClose" value="cerrar"/>
@@ -498,50 +498,50 @@
     <phrase id="UnauthorizedParentUserID" value="The current user (%c) is not authorized to assign the parent user ID (%p)."/>
     <phrase id="UnauthorizedMasterUserID" value="The current user (%c) is not authorized to insert the record. Master filter: %f"/>
     <phrase id="UnsupportedBrowser" value="Your browser is not supported by this page"/><!-- v2021 -->
-    <phrase id="Update" value="Update"/>
-    <phrase id="UpdateBtn" value="Update"/><!-- v2017 -->
-    <phrase id="UpdateCancelled" value="Update cancelled"/>
-    <phrase id="UpdateFailed" value="Update failed"/>
-    <phrase id="UpdateLink" value="Update" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
-    <phrase id="UpdateSelectedLink" value="Update Selected Records" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
-    <phrase id="UpdateSomeRecordsFailed" value="Update failed for records with keys: %k"/><!-- v2022 -->
-    <phrase id="UpdateSuccess" value="Updated successfully"/>
-    <phrase id="Uploading" value="Uploading..."/>
-    <phrase id="UploadStart" value="Start"/>
+    <phrase id="Update" value="Actualizar"/>
+    <phrase id="UpdateBtn" value="Actualizar"/><!-- v2017 -->
+    <phrase id="UpdateCancelled" value="Actualización cancelada"/>
+    <phrase id="UpdateFailed" value="Actualización fallida"/>
+    <phrase id="UpdateLink" value="Actualizar" class="fa-solid fa-check ew-icon"/><!-- v2023 -->
+    <phrase id="UpdateSelectedLink" value="Actualizar registros seleccionados" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
+    <phrase id="UpdateSomeRecordsFailed" value="Actualización fallida para registros con llaves: %k"/><!-- v2022 -->
+    <phrase id="UpdateSuccess" value="Actualizado exitosamente"/>
+    <phrase id="Uploading" value="Cargando..."/>
+    <phrase id="UploadStart" value="Comenzar"/>
     <phrase id="UploadCancel" value="Cancelar"/>
-    <phrase id="UploadDelete" value="Borrar"/>
-    <phrase id="UploadOverwrite" value="Overwrite old file?"/>
-    <phrase id="UploadError1" value="The uploaded file size exceeds the upload_max_filesize directive in php.ini"/><!-- v2023 -->
-    <phrase id="UploadError2" value="The uploaded file size exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"/><!-- v2023 -->
-    <phrase id="UploadError3" value="The uploaded file was only partially uploaded"/><!-- v2023 -->
-    <phrase id="UploadError4" value="No file was uploaded"/><!-- v2023 -->
-    <phrase id="UploadError6" value="Missing a temporary folder"/><!-- v2023 -->
-    <phrase id="UploadError7" value="Failed to write file to disk"/><!-- v2023 -->
-    <phrase id="UploadError8" value="A PHP extension stopped the file upload"/><!-- v2023 -->
-    <phrase id="UploadErrorPostMaxSize" value="The uploaded file size exceeds the post_max_size directive in php.ini"/><!-- v2023 -->
-    <phrase id="UploadErrorMaxFileSize" value="File is too big"/><!-- v2023 -->
-    <phrase id="UploadErrorMinFileSize" value="File is too small"/><!-- v2023 -->
-    <phrase id="UploadErrorAcceptFileTypes" value="File type not allowed"/><!-- v2023 -->
-    <phrase id="UploadErrorMaxNumberOfFiles" value="Maximum number of files exceeded"/><!-- v2023 -->
-    <phrase id="UploadErrorMaxWidth" value="Image exceeds maximum width"/><!-- v2023 -->
-    <phrase id="UploadErrorMinWidth" value="Image requires a minimum width"/><!-- v2023 -->
-    <phrase id="UploadErrorMaxHeight" value="Image exceeds maximum height"/><!-- v2023 -->
-    <phrase id="UploadErrorMinHeight" value="Image requires a minimum height"/><!-- v2023 -->
-    <phrase id="UploadErrorMaxFileLength" value="Total length of file names exceeds field length"/>
-    <phrase id="UserAdministrator" value="Administrator"/><!-- v12 -->
-    <phrase id="UserAnonymous" value="Anonymous"/><!-- v12 -->
-    <phrase id="UserDefault" value="Default"/><!-- v12 -->
-    <phrase id="UserEmail" value="Email"/>
+    <phrase id="UploadDelete" value="Eliminar"/>
+    <phrase id="UploadOverwrite" value="¿Sobrescribir archivo antiguo?"/>
+    <phrase id="UploadError1" value="El tamaño del archivo cargado excede la directiva upload_max_filesize en php.ini"/><!-- v2023 -->
+    <phrase id="UploadError2" value="El tamaño del archivo cargado excede la directiva MAX_FILE_SIZE que se especificó en el formulario HTML"/><!-- v2023 -->
+    <phrase id="UploadError3" value="El archivo cargado se subió solo parcialmente"/><!-- v2023 -->
+    <phrase id="UploadError4" value="No se cargó ningún archivo"/><!-- v2023 -->
+    <phrase id="UploadError6" value="Falta una carpeta temporal"/><!-- v2023 -->
+    <phrase id="UploadError7" value="Error al escribir el archivo en el disco"/><!-- v2023 -->
+    <phrase id="UploadError8" value="Una extensión de PHP detuvo la carga del archivo"/><!-- v2023 -->
+    <phrase id="UploadErrorPostMaxSize" value="El tamaño del archivo cargado excede la directiva post_max_size en php.ini"/><!-- v2023 -->
+    <phrase id="UploadErrorMaxFileSize" value="El archivo es demasiado grande"/><!-- v2023 -->
+    <phrase id="UploadErrorMinFileSize" value="El archivo es demasiado pequeño"/><!-- v2023 -->
+    <phrase id="UploadErrorAcceptFileTypes" value="Tipo de archivo no permitido"/><!-- v2023 -->
+    <phrase id="UploadErrorMaxNumberOfFiles" value="Se excedió el número máximo de archivos"/><!-- v2023 -->
+    <phrase id="UploadErrorMaxWidth" value="La imagen excede el ancho máximo"/><!-- v2023 -->
+    <phrase id="UploadErrorMinWidth" value="La imagen requiere un ancho mínimo"/><!-- v2023 -->
+    <phrase id="UploadErrorMaxHeight" value="La imagen excede la altura máxima"/><!-- v2023 -->
+    <phrase id="UploadErrorMinHeight" value="La imagen requiere una altura mínima"/><!-- v2023 -->
+    <phrase id="UploadErrorMaxFileLength" value="La longitud total de los nombres de archivo excede la longitud del campo"/>
+    <phrase id="UserAdministrator" value="Administrador"/><!-- v12 -->
+    <phrase id="UserAnonymous" value="Anónimo"/><!-- v12 -->
+    <phrase id="UserDefault" value="Predeterminado"/><!-- v12 -->
+    <phrase id="UserEmail" value="Correo electrónico"/>
     <phrase id="UserExists" value="La usuario ya existe"/>
-    <phrase id="UserLevel" value="User Level: "/>
-    <phrase id="UserLevelAdministratorName" value="User level name for user level -1 must be 'Administrator'"/>
-    <phrase id="UserLevelAnonymousName" value="User level name for user level -2 must be 'Anonymous'"/><!-- v12 -->
-    <phrase id="UserLevelPermission" value="User Level Permissions"/>
-    <phrase id="UserLevelIDInteger" value="User level ID must be integer"/>
-    <phrase id="UserLevelDefaultName" value="User level name for user level 0 must be 'Default'"/>
-    <phrase id="UserLevelIDIncorrect" value="User defined user level ID must be larger than 0"/>
-    <phrase id="UserLevelNameIncorrect" value="User defined user level name cannot be 'Anonymous', 'Administrator' or 'Default'"/>
-    <phrase id="UserLoggedIn" value="User '%u' already logged in"/>
+    <phrase id="UserLevel" value="Nivel de usuario: "/>
+    <phrase id="UserLevelAdministratorName" value="El nombre de nivel de usuario para el nivel de usuario -1 debe ser 'Administrador'"/>
+    <phrase id="UserLevelAnonymousName" value="El nombre de nivel de usuario para el nivel de usuario -2 debe ser 'Anónimo'"/><!-- v12 -->
+    <phrase id="UserLevelPermission" value="Permisos de nivel de usuario"/>
+    <phrase id="UserLevelIDInteger" value="El ID de nivel de usuario debe ser entero"/>
+    <phrase id="UserLevelDefaultName" value="El nombre de nivel de usuario para el nivel de usuario 0 debe ser 'Predeterminado'"/>
+    <phrase id="UserLevelIDIncorrect" value="El ID de nivel de usuario definido por el usuario debe ser mayor que 0"/>
+    <phrase id="UserLevelNameIncorrect" value="El nombre de nivel de usuario definido por el usuario no puede ser 'Anónimo', 'Administrador' o 'Predeterminado'"/>
+    <phrase id="UserLoggedIn" value="El usuario '%u' ya ha iniciado sesión"/>
     <phrase id="UserName" value="Nombre de usuario"/><!-- v2021 -->
     <phrase id="UserNotFound" value="Usuario '%u' no encontrado"/><!-- v2018 -->
     <phrase id="UserProfileCorrupted" value="El perfil de usuario está dañado. Por favor, cierre sesión y vuelva a iniciar sesión"/>
@@ -549,178 +549,178 @@
     <phrase id="Verify" value="Verificar"/><!-- v2022 -->
     <phrase id="View" value="Ver"/>
     <phrase id="ViewImageGallery" value="Haga clic para ver la imagen"/><!-- v12 -->
-    <phrase id="ViewLink" value="View" class="icon-view ew-icon"/><!-- v11 -->
+    <phrase id="ViewLink" value="Ver" class="icon-view ew-icon"/><!-- v11 -->
     <phrase id="ViewPageAddLink" value="Agregar" class="fa-solid fa-plus ew-icon"/><!-- v2023 -->
     <phrase id="ViewPageCopyLink" value="Copiar" class="fa-regular fa-copy ew-icon"/><!-- v2023 -->
     <phrase id="ViewPageDeleteLink" value="Borrar" class="fa-solid fa-trash ew-icon"/><!-- v2023 -->
     <phrase id="ViewPageDetailLink" value=""/>
-    <phrase id="ViewPageEditLink" value="Edit" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
+    <phrase id="ViewPageEditLink" value="Editar" class="fa-solid fa-pen ew-icon"/><!-- v2023 -->
     <phrase id="Warning" value="Advertencia"/><!-- v2020 -->
-    <phrase id="Week" value="Week"/><!-- v2020 -->
-    <phrase id="WrongFileType" value="File type is not allowed."/>
+    <phrase id="Week" value="Semana"/><!-- v2020 -->
+    <phrase id="WrongFileType" value="El tipo de archivo no está permitido."/>
     <phrase id="Year" value="Año"/><!-- v2020 -->
     <phrase id="=" value="&amp;nbsp;"/><!-- v12 -->
     <phrase id="EQUAL" value="="/><!-- v12 -->
-    <phrase id="IN" value="in"/><!-- v2023 -->
-    <phrase id="NOT IN" value="not in"/><!-- v2023 -->
+    <phrase id="IN" value="en"/><!-- v2023 -->
+    <phrase id="NOT IN" value="no en"/><!-- v2023 -->
     <phrase id="&lt;&gt;" value="&amp;lt;&amp;gt;"/>
     <phrase id="&lt;" value="&amp;lt;"/>
     <phrase id="&lt;=" value="&amp;lt;="/>
     <phrase id="&gt;" value="&amp;gt;"/>
     <phrase id="&gt;=" value="&amp;gt;="/>
-    <phrase id="LIKE" value="contains"/>
-    <phrase id="NOT LIKE" value="doesn't contain"/><!-- v2023 -->
-    <phrase id="STARTS WITH" value="starts with"/>
-    <phrase id="NOT STARTS WITH" value="doesn't starts with"/><!-- v2023 -->
-    <phrase id="ENDS WITH" value="ends with"/>
-    <phrase id="NOT ENDS WITH" value="doesn't ends with"/><!-- v2023 -->
-    <phrase id="IS EMPTY" value="is empty"/><!-- v2023 -->
-    <phrase id="IS NOT EMPTY" value="is not empty"/><!-- v2023 -->
-    <phrase id="IS NULL" value="is null"/>
-    <phrase id="IS NOT NULL" value="is not null"/>
-    <phrase id="BETWEEN" value="between"/>
-    <phrase id="NOT BETWEEN" value="not between"/><!-- v2023 -->
-    <phrase id="AND" value="and"/>
-    <phrase id="OR" value="or"/>
+    <phrase id="LIKE" value="contiene"/>
+    <phrase id="NOT LIKE" value="no contiene"/><!-- v2023 -->
+    <phrase id="STARTS WITH" value="comienza con"/>
+    <phrase id="NOT STARTS WITH" value="no comienza con"/><!-- v2023 -->
+    <phrase id="ENDS WITH" value="termina con"/>
+    <phrase id="NOT ENDS WITH" value="no termina con"/><!-- v2023 -->
+    <phrase id="IS EMPTY" value="está vacío"/><!-- v2023 -->
+    <phrase id="IS NOT EMPTY" value="no está vacío"/><!-- v2023 -->
+    <phrase id="IS NULL" value="es nulo"/>
+    <phrase id="IS NOT NULL" value="no es nulo"/>
+    <phrase id="BETWEEN" value="entre"/>
+    <phrase id="NOT BETWEEN" value="no entre"/><!-- v2023 -->
+    <phrase id="AND" value="y"/>
+    <phrase id="OR" value="o"/>
 <!-- Advanced Filter --><!-- v2020 -->
-    <phrase id="Future" value="Future"/>
-    <phrase id="Past" value="Past"/>
-    <phrase id="Last14Days" value="Last 14 days"/>
-    <phrase id="Last30Days" value="Last 30 days"/>
-    <phrase id="Last7Days" value="Last 7 days"/>
-    <phrase id="Next14Days" value="Next 14 days"/>
-    <phrase id="Next30Days" value="Next 30 days"/>
-    <phrase id="Next7Days" value="Next 7 days"/>
-    <phrase id="Today" value="Today"/>
-    <phrase id="Tomorrow" value="Tomorrow"/>
-    <phrase id="Yesterday" value="Yesterday"/>
-    <phrase id="LastMonth" value="Last month"/>
-    <phrase id="NextMonth" value="Next month"/>
-    <phrase id="ThisMonth" value="This month"/>
-    <phrase id="LastTwoWeeks" value="Last two weeks"/>
-    <phrase id="LastWeek" value="Last week"/>
-    <phrase id="NextTwoWeeks" value="Next two weeks"/>
-    <phrase id="NextWeek" value="Next week"/>
-    <phrase id="ThisWeek" value="This week"/>
-    <phrase id="LastYear" value="Last year"/>
-    <phrase id="NextYear" value="Next year"/>
-    <phrase id="ThisYear" value="This year"/>
+    <phrase id="Future" value="Futuro"/>
+    <phrase id="Past" value="Pasado"/>
+    <phrase id="Last14Days" value="Últimos 14 días"/>
+    <phrase id="Last30Days" value="Últimos 30 días"/>
+    <phrase id="Last7Days" value="Últimos 7 días"/>
+    <phrase id="Next14Days" value="Próximos 14 días"/>
+    <phrase id="Next30Days" value="Próximos 30 días"/>
+    <phrase id="Next7Days" value="Próximos 7 días"/>
+    <phrase id="Today" value="Hoy"/>
+    <phrase id="Tomorrow" value="Mañana"/>
+    <phrase id="Yesterday" value="Ayer"/>
+    <phrase id="LastMonth" value="Último mes"/>
+    <phrase id="NextMonth" value="Próximo mes"/>
+    <phrase id="ThisMonth" value="Este mes"/>
+    <phrase id="LastTwoWeeks" value="Últimas dos semanas"/>
+    <phrase id="LastWeek" value="Semana pasada"/>
+    <phrase id="NextTwoWeeks" value="Próximas dos semanas"/>
+    <phrase id="NextWeek" value="Próxima semana"/>
+    <phrase id="ThisWeek" value="Esta semana"/>
+    <phrase id="LastYear" value="Año pasado"/>
+    <phrase id="NextYear" value="Próximo año"/>
+    <phrase id="ThisYear" value="Este año"/>
 <!-- Exceptions --><!-- v2021 -->
-    <phrase id="400" value="Bad Request"/>
-    <phrase id="400Desc" value="The server cannot or will not process the request due to an apparent client error."/>
-    <phrase id="401" value="Unauthorized"/>
-    <phrase id="401Desc" value="The request requires valid user authentication."/>
-    <phrase id="403" value="Forbidden"/>
-    <phrase id="403Desc" value="You are not permitted to perform the requested operation."/>
-    <phrase id="404" value="Not Found"/>
-    <phrase id="404Desc" value="The requested resource could not be found. Please verify the URI and try again."/>
-    <phrase id="405" value="Method Not Allowed"/>
-    <phrase id="405Desc" value="The request method is not supported for the requested resource."/>
-    <phrase id="500" value="Internal Server Error"/>
-    <phrase id="500Desc" value="Unexpected condition encountered preventing server from fulfilling request."/>
-    <phrase id="501" value="Not Implemented"/>
-    <phrase id="501Desc" value="The server does not support the functionality required to fulfill the request."/>
+    <phrase id="400" value="Solicitud incorrecta"/>
+    <phrase id="400Desc" value="El servidor no puede o no procesará la solicitud debido a un error aparente del cliente."/>
+    <phrase id="401" value="No autorizado"/>
+    <phrase id="401Desc" value="La solicitud requiere autenticación de usuario válida."/>
+    <phrase id="403" value="Prohibido"/>
+    <phrase id="403Desc" value="No tienes permiso para realizar la operación solicitada."/>
+    <phrase id="404" value="No encontrado"/>
+    <phrase id="404Desc" value="No se pudo encontrar el recurso solicitado. Verifique la URI e intente nuevamente."/>
+    <phrase id="405" value="Método no permitido"/>
+    <phrase id="405Desc" value="El método de solicitud no es compatible con el recurso solicitado."/>
+    <phrase id="500" value="Error interno del servidor"/>
+    <phrase id="500Desc" value="Se encontró una condición inesperada que impide que el servidor cumpla con la solicitud."/>
+    <phrase id="501" value="No implementado"/>
+    <phrase id="501Desc" value="El servidor no admite la funcionalidad necesaria para cumplir con la solicitud."/>
 <!-- DO NOT change letter case of the following IDs! -->
 <!-- Datetime Picker --><!-- v2023 -->
     <datetimepicker>
-        <phrase id="today" value="Go to today"/>,
-        <phrase id="clear" value="Clear selection"/>,
-        <phrase id="close" value="Close the picker"/>,
-        <phrase id="selectMonth" value="Select Month"/>,
-        <phrase id="previousMonth" value="Previous Month"/>,
-        <phrase id="nextMonth" value="Next Month"/>,
-        <phrase id="selectYear" value="Select Year"/>,
-        <phrase id="previousYear" value="Previous Year"/>,
-        <phrase id="nextYear" value="Next Year"/>,
-        <phrase id="selectDecade" value="Select Decade"/>,
-        <phrase id="previousDecade" value="Previous Decade"/>,
-        <phrase id="nextDecade" value="Next Decade"/>,
-        <phrase id="previousCentury" value="Previous Century"/>,
-        <phrase id="nextCentury" value="Next Century"/>,
-        <phrase id="pickHour" value="Pick Hour"/>,
-        <phrase id="incrementHour" value="Increment Hour"/>,
-        <phrase id="decrementHour" value="Decrement Hour"/>,
-        <phrase id="pickMinute" value="Pick Minute"/>,
-        <phrase id="incrementMinute" value="Increment Minute"/>,
-        <phrase id="decrementMinute" value="Decrement Minute"/>,
-        <phrase id="pickSecond" value="Pick Second"/>,
-        <phrase id="incrementSecond" value="Increment Second"/>,
-        <phrase id="decrementSecond" value="Decrement Second"/>,
-        <phrase id="toggleMeridiem" value="Toggle Meridiem"/>,
-        <phrase id="selectTime" value="Select Time"/>,
-        <phrase id="selectDate" value="Select Date"/>
+        <phrase id="today" value="Ir a hoy"/>,
+        <phrase id="clear" value="Borrar selección"/>,
+        <phrase id="close" value="Cerrar el selector"/>,
+        <phrase id="selectMonth" value="Seleccionar mes"/>,
+        <phrase id="previousMonth" value="Mes anterior"/>,
+        <phrase id="nextMonth" value="Siguiente mes"/>,
+        <phrase id="selectYear" value="Seleccionar año"/>,
+        <phrase id="previousYear" value="Año anterior"/>,
+        <phrase id="nextYear" value="Siguiente año"/>,
+        <phrase id="selectDecade" value="Seleccionar década"/>,
+        <phrase id="previousDecade" value="Década anterior"/>,
+        <phrase id="nextDecade" value="Siguiente década"/>,
+        <phrase id="previousCentury" value="Siglo anterior"/>,
+        <phrase id="nextCentury" value="Siguiente siglo"/>,
+        <phrase id="pickHour" value="Seleccionar hora"/>,
+        <phrase id="incrementHour" value="Incrementar hora"/>,
+        <phrase id="decrementHour" value="Decrementar hora"/>,
+        <phrase id="pickMinute" value="Seleccionar minuto"/>,
+        <phrase id="incrementMinute" value="Incrementar minuto"/>,
+        <phrase id="decrementMinute" value="Decrementar minuto"/>,
+        <phrase id="pickSecond" value="Seleccionar segundo"/>,
+        <phrase id="incrementSecond" value="Incrementar segundo"/>,
+        <phrase id="decrementSecond" value="Decrementar segundo"/>,
+        <phrase id="toggleMeridiem" value="Alternar meridiano"/>,
+        <phrase id="selectTime" value="Seleccionar hora"/>,
+        <phrase id="selectDate" value="Seleccionar fecha"/>
     </datetimepicker>
 <!-- Select2 --><!-- v2022 -->
     <select2>
-        <phrase id="errorLoading" value="The results could not be loaded."/>
-        <phrase id="inputTooLong" value="Please delete %s character(s)"/>
-        <phrase id="inputTooShort" value="Please enter %s or more characters"/>
-        <phrase id="loadingMore" value="Loading more..."/>
-        <phrase id="maximumSelected" value="You can only select %s item(s)"/>
-        <phrase id="noResults" value="No results found"/>
-        <phrase id="searching" value="Searching..."/>
-        <phrase id="removeAllItems" value="Remove all items"/>
-        <phrase id="removeItem" value="Remove item"/>
+        <phrase id="errorLoading" value="No se pudieron cargar los resultados."/>
+        <phrase id="inputTooLong" value="Elimine %s caracteres."/>
+        <phrase id="inputTooShort" value="Ingrese %s o más caracteres."/>
+        <phrase id="loadingMore" value="Cargando más..."/>
+        <phrase id="maximumSelected" value="Solo puede seleccionar %s elemento(s)"/>
+        <phrase id="noResults" value="No se encontraron resultados"/>
+        <phrase id="searching" value="Buscando..."/>
+        <phrase id="removeAllItems" value="Eliminar todos los elementos"/>
+        <phrase id="removeItem" value="Eliminar elemento"/>
         <phrase id="search" value="Buscar"/>
     </select2>
 <!-- jQuery Query Builder --><!-- v2023 -->
     <querybuilderjs>
-        <phrase id="add_rule" value="Add rule"/>
-        <phrase id="add_group" value="Add group"/>
-        <phrase id="delete_rule" value="Delete"/>
-        <phrase id="delete_group" value="Delete"/>
-        <phrase id="invert" value="Invert"/>
-        <phrase id="NOT" value="NOT"/>
+        <phrase id="add_rule" value="Agregar regla"/>
+        <phrase id="add_group" value="Agregar grupo"/>
+        <phrase id="delete_rule" value="Eliminar"/>
+        <phrase id="delete_group" value="Eliminar"/>
+        <phrase id="invert" value="Invertir"/>
+        <phrase id="NOT" value="NO"/>
         <conditions>
-            <phrase id="AND" value="AND"/>
-            <phrase id="OR" value="OR"/>
+            <phrase id="AND" value="Y"/>
+            <phrase id="OR" value="O"/>
         </conditions>
         <operators>
             <phrase id="equal" value="="/>
             <phrase id="not_equal" value="&amp;lt;&amp;gt;"/>
-            <phrase id="in" value="in"/>
-            <phrase id="not_in" value="not in"/>
+            <phrase id="in" value="en"/>
+            <phrase id="not_in" value="no en"/>
             <phrase id="less" value="&amp;lt;"/>
             <phrase id="less_or_equal" value="&amp;lt;="/>
             <phrase id="greater" value="&amp;gt;"/>
             <phrase id="greater_or_equal" value="&amp;gt;="/>
-            <phrase id="between" value="between"/>
-            <phrase id="not_between" value="not between"/>
-            <phrase id="begins_with" value="starts with"/>
-            <phrase id="not_begins_with" value="doesn't starts with"/>
-            <phrase id="contains" value="contains"/>
-            <phrase id="not_contains" value="doesn't contain"/>
-            <phrase id="ends_with" value="ends with"/>
-            <phrase id="not_ends_with" value="doesn't end with"/>
-            <phrase id="is_empty" value="is empty"/>
-            <phrase id="is_not_empty" value="is not empty"/>
-            <phrase id="is_null" value="is null"/>
-            <phrase id="is_not_null" value="is not null"/>
+            <phrase id="between" value="entre"/>
+            <phrase id="not_between" value="no entre"/>
+            <phrase id="begins_with" value="empieza con"/>
+            <phrase id="not_begins_with" value="no empieza con"/>
+            <phrase id="contains" value="contiene"/>
+            <phrase id="not_contains" value="no contiene"/>
+            <phrase id="ends_with" value="termina con"/>
+            <phrase id="not_ends_with" value="no termina con"/>
+            <phrase id="is_empty" value="está vacío"/>
+            <phrase id="is_not_empty" value="no está vacío"/>
+            <phrase id="is_null" value="es nulo"/>
+            <phrase id="is_not_null" value="no es nulo"/>
         </operators>
         <errors>
-            <phrase id="no_filter" value="No filter selected"/>
-            <phrase id="empty_group" value="The group is empty"/>
-            <phrase id="radio_empty" value="No value selected"/>
-            <phrase id="checkbox_empty" value="No value selected"/>
-            <phrase id="select_empty" value="No value selected"/>
-            <phrase id="string_empty" value="Empty value"/>
-            <phrase id="string_exceed_min_length" value="Must contain at least {0} characters"/>
-            <phrase id="string_exceed_max_length" value="Must not contain more than {0} characters"/>
-            <phrase id="string_invalid_format" value="Invalid format ({0})"/>
-            <phrase id="number_nan" value="Not a number"/>
-            <phrase id="number_not_integer" value="Not an integer"/>
-            <phrase id="number_not_double" value="Not a real number"/>
-            <phrase id="number_exceed_min" value="Must be greater than {0}"/>
-            <phrase id="number_exceed_max" value="Must be lower than {0}"/>
-            <phrase id="number_wrong_step" value="Must be a multiple of {0}"/>
-            <phrase id="number_between_invalid" value="Invalid values, {0} is greater than {1}"/>
-            <phrase id="datetime_empty" value="Empty value"/>
-            <phrase id="datetime_invalid" value="Invalid date format ({0})"/>
-            <phrase id="datetime_exceed_min" value="Must be after {0}"/>
-            <phrase id="datetime_exceed_max" value="Must be before {0}"/>
-            <phrase id="datetime_between_invalid" value="Invalid values, {0} is greater than {1}"/>
-            <phrase id="boolean_not_valid" value="Not a boolean"/>'
-            <phrase id="operator_not_multiple" value="Operator '{1}' cannot accept multiple values"/>
+            <phrase id="no_filter" value="No se ha seleccionado filtro"/>
+            <phrase id="empty_group" value="El grupo está vacío"/>
+            <phrase id="radio_empty" value="No se ha seleccionado ningún valor"/>
+            <phrase id="checkbox_empty" value="No se ha seleccionado ningún valor"/>
+            <phrase id="select_empty" value="No se ha seleccionado ningún valor"/>
+            <phrase id="string_empty" value="Valor vacío"/>
+            <phrase id="string_exceed_min_length" value="Debe contener al menos {0} caracteres"/>
+            <phrase id="string_exceed_max_length" value="No debe contener más de {0} caracteres"/>
+            <phrase id="string_invalid_format" value="Formato no válido ({0})"/>
+            <phrase id="number_nan" value="No es un número"/>
+            <phrase id="number_not_integer" value="No es un número entero"/>
+            <phrase id="number_not_double" value="No es un número real"/>
+            <phrase id="number_exceed_min" value="Debe ser mayor que {0}"/>
+            <phrase id="number_exceed_max" value="Debe ser menor que {0}"/>
+            <phrase id="number_wrong_step" value="Debe ser un múltiplo de {0}"/>
+            <phrase id="number_between_invalid" value="Valores no válidos, {0} es mayor que {1}"/>
+            <phrase id="datetime_empty" value="Valor vacío"/>
+            <phrase id="datetime_invalid" value="Formato de fecha no válido ({0})"/>
+            <phrase id="datetime_exceed_min" value="Debe ser posterior a {0}"/>
+            <phrase id="datetime_exceed_max" value="Debe ser anterior a {0}"/>
+            <phrase id="datetime_between_invalid" value="Valores no válidos, {0} es mayor que {1}"/>
+            <phrase id="boolean_not_valid" value="No es un valor booleano"/>
+            <phrase id="operator_not_multiple" value="El operador '{1}' no puede aceptar varios valores"/>
         </errors>
     </querybuilderjs>
 <!-- FullCalendar --><!-- v2023 -->
@@ -730,29 +730,29 @@
             <phrase id="doy" value="4"/><!-- Integer. Day of year. Number of days need to be within the year to be considered the first week -->
         </week>
         <buttonText>
-            <phrase id="prev" value="prev"/>
-            <phrase id="next" value="next"/>
-            <phrase id="prevYear" value="prev year"/>
-            <phrase id="nextYear" value="next year"/>
+            <phrase id="prev" value="anterior"/>
+            <phrase id="next" value="siguiente"/>
+            <phrase id="prevYear" value="año anterior"/>
+            <phrase id="nextYear" value="próximo año"/>
             <phrase id="year" value="Año"/>
-            <phrase id="today" value="today"/>
-            <phrase id="month" value="month"/>
-            <phrase id="week" value="week"/>
-            <phrase id="day" value="day"/>
-            <phrase id="list" value="list"/>
+            <phrase id="today" value="hoy"/>
+            <phrase id="month" value="mes"/>
+            <phrase id="week" value="semana"/>
+            <phrase id="day" value="día"/>
+            <phrase id="list" value="lista"/>
         </buttonText>
          <buttonHints>
             <phrase id="prev" value="Previous $0"/><!-- Do not translate '$0' -->
             <phrase id="next" value="Next $0"/><!-- Do not translate '$0' -->
         </buttonHints>
         <phrase id="weekText" value="W"/>
-        <phrase id="weekTextLong" value="Week"/>
-        <phrase id="closeHint" value="Close"/>
-        <phrase id="timeHint" value="Time"/>
-        <phrase id="eventHint" value="Event"/>
-        <phrase id="allDayText" value="all-day"/>
-        <phrase id="moreLinkText" value="more"/>
-        <phrase id="noEventsText" value="No events to display"/>
+        <phrase id="weekTextLong" value="Semana"/>
+        <phrase id="closeHint" value="Cerrar"/>
+        <phrase id="timeHint" value="Hora"/>
+        <phrase id="eventHint" value="Evento"/>
+        <phrase id="allDayText" value="Todo el día"/>
+        <phrase id="moreLinkText" value="más"/>
+        <phrase id="noEventsText" value="No hay eventos para mostrar"/>
         <phrase id="viewHint" value="$0 view"/><!-- Do not translate '$0' -->
         <phrase id="navLinkHint" value="Go to $0"/><!-- Do not translate '$0' -->
     </fullcalendar>
