@@ -16,32 +16,32 @@
     <phrase id="ActionInserted" value="Insertado"/>
     <phrase id="ActionInsertedGridAdd" value="Insertado (Agregar-Malla)"/>
     <phrase id="ActionUpdated" value="Actualizado"/>
-    <phrase id="ActionUpdatedGridEdit" value="Updated (Grid-Edit)"/>
-    <phrase id="ActionUpdatedMultiUpdate" value="Updated (Multi-Update)"/>
-    <phrase id="ActivateAccount" value="Your account is activated"/>
-    <phrase id="ActivateFailed" value="Activation failed"/>
+    <phrase id="ActionUpdatedGridEdit" value="Actualizado (Grid-Edit)"/>
+    <phrase id="ActionUpdatedMultiUpdate" value="Actualizado (actualización múltiple)"/>
+    <phrase id="ActivateAccount" value="Tu cuenta está activada"/>
+    <phrase id="ActivateFailed" value="Activación Fallida"/>
     <phrase id="Add" value="Agregar"/>
-    <phrase id="AddBlankRow" value="Add blank row" class="fa-solid fa-plus ew-icon"/><!-- v2023 -->
+    <phrase id="AddBlankRow" value="Agregar fila en blanco" class="fa-solid fa-plus ew-icon"/><!-- v2023 -->
     <phrase id="AddBtn" value="Agregar"/><!-- v2018 -->
-    <phrase id="AddEvent" value="Add event"/><!-- v2023 -->
+    <phrase id="AddEvent" value="Agregar Evento"/><!-- v2023 -->
     <phrase id="AddLink" value="Agregar" class="fa-solid fa-plus ew-icon"/><!-- v2023 -->
-    <phrase id="AddMasterDetailLink" value="Master/Detail Add" class="icon-md-add ew-icon"/><!-- v11 -->
-    <phrase id="AddSuccess" value="Added successfully"/>
-    <phrase id="AdvancedSearch" value="Advanced Search" class="icon-advanced-search ew-icon"/><!-- v2023 -->
+    <phrase id="AddMasterDetailLink" value="Maestro/Detalle Agregar" class="icon-md-add ew-icon"/><!-- v11 -->
+    <phrase id="AddSuccess" value="Agregado exitosamente"/>
+    <phrase id="AdvancedSearch" value="Búsqueda Avanzada" class="icon-advanced-search ew-icon"/><!-- v2023 -->
     <phrase id="AggregateColon" value=": "/><!-- v2020 -->
     <phrase id="AggregateEqual" value="="/><!-- v2020 -->
-    <phrase id="AllRecords" value="All"/>
-    <phrase id="AllWord" value="All words"/>
-    <phrase id="AnyWord" value="Any word"/>
+    <phrase id="AllRecords" value="Todos"/>
+    <phrase id="AllWord" value="Todas las palabras"/>
+    <phrase id="AnyWord" value="Cualquier palabra"/>
     <phrase id="ApiTitle" value="REST API"/><!-- v2021 -->
-    <phrase id="AuditTrailAutoLogin" value="autologin"/>
-    <phrase id="AuditTrailFailedAttempt" value="failed attempt: %n"/>
-    <phrase id="AuditTrailUserLoggedIn" value="user already logged in"/>
-    <phrase id="AuditTrailPasswordExpired" value="password expired"/>
+    <phrase id="AuditTrailAutoLogin" value="ingreso automático"/>
+    <phrase id="AuditTrailFailedAttempt" value="intento fallido: %n"/>
+    <phrase id="AuditTrailUserLoggedIn" value="el usuario ya esta conectado"/>
+    <phrase id="AuditTrailPasswordExpired" value="la contraseña expiró"/>
     <phrase id="AuditTrailLogin" value="acceso"/>
-    <phrase id="AuditTrailLogout" value="logout"/>
-    <phrase id="AutoLoginFailed" value="Auto login failed"/><!-- v2018 -->
-    <phrase id="Average" value="Average"/>
+    <phrase id="AuditTrailLogout" value="cerrar sesión"/>
+    <phrase id="AutoLoginFailed" value="Inicio de sesión automático fallido"/><!-- v2018 -->
+    <phrase id="Average" value="Promedio"/>
     <phrase id="BackToList" value="Back to List"/>
     <phrase id="BackToLogin" value="Back to login page"/>
     <phrase id="BackToMasterRecordPage" value="Back to master table"/>
